@@ -4,7 +4,7 @@ The "CapGamData" directory contains level structure and branching ratio data for
 
 ## File Structure
 
-- Each isotope has its own `.txt` file named with the format "Z-A.txt". For example, "6-13.txt" would be for Carbon 13.
+- Each isotope has its own `.txt` file named with the format "Z-A.txt". For example, "6-13.txt" would be for Carbon 13. It's important to note that A in these files is that of the nucleus post-capture. So 6-13.txt would be the file for simulating capture on carbon 12.
 - Inside each file, the data is formatted as follows:
 ~~~text
 	[Level Energy]
