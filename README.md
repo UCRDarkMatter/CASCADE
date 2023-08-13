@@ -6,11 +6,11 @@ G4SimpleCapGam is an extension for Geant4 that simulates de-excitation following
 
 This version of G4SimpleCapGam is designed for Geant4-10.7.4. It may work with other versions, but this is not guaranteed.
 
-###Using SimpleCapGam with a Geant4 example
+### Using SimpleCapGam with a Geant4 example
 
 Copy the example directory (for example, examples/extended/hadronic/Hadr03) to a different directory where it can be modified, then place G4SimpleCapGam.cc, G4ParticleHPCaptureFS.cc, G4ParticleHPMessenger.cc, and G4ParticleHPManager.cc into the /src directory. Place G4SimpleCapGam.hh into the /include directory. compile the example by going to the main example directory (ex: Hadr03) and running the command "make". The example should automatically compile the new files and use them instead of the default Geant files. It's important to note that this example needs to use the high-precision neutron capture model (HP) in order to utilize G4SimpleCapGam.
 
-###Using SimpleCapGam with other Geant4 programs
+### Using SimpleCapGam with other Geant4 programs
 
 place G4SimpleCapGam.cc, G4ParticleHPCaptureFS.cc, G4ParticleHPMessenger.cc, and G4ParticleHPManager.cc into the /src directory of your project, and make sure this directory is properly included in CMakeLists.txt. Place G4SimpleCapGam.hh into the /include directory, and make sure this directory is included in CMakeLists.txt. Make sure your project is using a physics list which includes the high precision neutron capture model. build and compile your project with G4SimpleCapGam using CMake.
 
@@ -44,7 +44,7 @@ G4SimpleCapGam uses several environment variables to control its behavior:
 
 ## Contact
 
-For more information about SimpleCapGam, contact Leo Weimer at ljw00010@mix.wvu.edu
+For more information about SimpleCapGam, contact Leo Weimer at ljw00010 [at] mix.wvu.edu
 
 ## Acknowledgments
 
