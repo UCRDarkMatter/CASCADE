@@ -30,8 +30,8 @@
 #include "G4UIcmdWithAString.hh"
 #include "G4UIcmdWithAnInteger.hh"
 
-//Added for G4SimpleCapGam:
-G4UIcmdWithAString* SimpleCapGamCmd;
+//Added for G4CASCADE:
+G4UIcmdWithAString* CASCADECmd;
 G4UIcmdWithAString* UseRawExcitationCmd;
 G4UIcmdWithAString* AlwaysEmitGammaCmd;
 
@@ -41,21 +41,21 @@ G4ParticleHPMessenger::G4ParticleHPMessenger( G4ParticleHPManager* man )
    ParticleHPDir = new G4UIdirectory( "/process/had/particle_hp/" );
    ParticleHPDir->SetGuidance( "UI commands of ParticleHP" );
 
-   //Added for G4impleCapGam
-   SimpleCapGamCmd = new G4UIcmdWithAString("/process/had/particle_hp/use_simple_capgam",this);
-   SimpleCapGamCmd->SetGuidance("Use simple capgam model when data is available.");
-   SimpleCapGamCmd->SetParameterName("choice",false);
-   SimpleCapGamCmd->SetCandidates("true false");
-   SimpleCapGamCmd->AvailableForStates(G4State_PreInit,G4State_Idle);
+   //Added for G4CASCADE
+   CASCADECmd = new G4UIcmdWithAString("/process/had/particle_hp/use_CASCADE",this);
+   CASCADECmd->SetGuidance("Use CASCADE model when data is available.");
+   CASCADECmd->SetParameterName("choice",false);
+   CASCADECmd->SetCandidates("true false");
+   CASCADECmd->AvailableForStates(G4State_PreInit,G4State_Idle);
 
-   //Added for G4SimpleCapGam
+   //Added for G4CASCADE
    UseRawExcitationCmd = new G4UIcmdWithAString("/process/had/particle_hp/use_raw_excitation",this);
-   UseRawExcitationCmd->SetGuidance("Use the raw excitation energy of the nucleus in SimpleCapGam, may cause relative intensity issues");
+   UseRawExcitationCmd->SetGuidance("Use the raw excitation energy of the nucleus in CASCADE, may cause relative intensity issues");
    UseRawExcitationCmd->SetParameterName("choice",false);
    UseRawExcitationCmd->SetCandidates("true false");
    UseRawExcitationCmd->AvailableForStates(G4State_PreInit,G4State_Idle);
 
-   //Added for G4SimpleCapGam
+   //Added for G4CASCADE
    AlwaysEmitGammaCmd = new G4UIcmdWithAString("/process/had/particle_hp/always_emit_gamma",this);
    AlwaysEmitGammaCmd->SetGuidance("Always emit a gamma ray for every transition, even when the transition should emit something else, like an electron. If false, nothing is emitted for these transitions");
    AlwaysEmitGammaCmd->SetParameterName("choice",false);
@@ -118,8 +118,8 @@ G4ParticleHPMessenger::~G4ParticleHPMessenger()
 {
    delete ParticleHPDir;
 
-   //Added for G4SimpleCapGam
-   delete SimpleCapGamCmd;
+   //Added for G4CASCADE
+   delete CASCADECmd;
    delete UseRawExcitationCmd;
    delete AlwaysEmitGammaCmd;
 
@@ -138,12 +138,12 @@ void G4ParticleHPMessenger::SetNewValue(G4UIcommand* command,G4String newValue)
    G4bool bValue=false;
    if ( newValue == "true" ) bValue=true;
 
-   //Added for G4SimpleCapGam
-   if ( command == SimpleCapGamCmd ) { 
+   //Added for G4CASCADE
+   if ( command == CASCADECmd ) { 
       if(bValue == 1){
-        putenv("G4NEUTRONHP_USE_SIMPLE_CAPGAM=1");
+        putenv("G4NEUTRONHP_USE_CASCADE=1");
       }else {
-        putenv("G4NEUTRONHP_USE_SIMPLE_CAPGAM=0");
+        putenv("G4NEUTRONHP_USE_CASCADE=0");
       }
    }
    if( command == UseRawExcitationCmd ) { 
