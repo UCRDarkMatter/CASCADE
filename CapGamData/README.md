@@ -1,6 +1,6 @@
 # CapGamData Directory
 
-The "CapGamData" directory contains level structure and branching ratio data for isotopes used by G4SimpleCapGam.
+The "CapGamData" directory contains level structure and branching ratio data for isotopes used by G4CASCADE.
 
 ## File Structure
 
@@ -31,7 +31,7 @@ The "CapGamData" directory contains level structure and branching ratio data for
 
 ## Usage
 
-G4SimpleCapGam uses the data in these files to simulate de-excitation following thermal neutron capture. To ensure accurate simulation results, verify that the data files are correctly formatted and contain the necessary information for the isotopes you intend to simulate.
+G4CASCADE uses the data in these files to simulate de-excitation following thermal neutron capture. To ensure accurate simulation results, verify that the data files are correctly formatted and contain the necessary information for the isotopes you intend to simulate.
 
 ## Contact
 
