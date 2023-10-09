@@ -1,8 +1,8 @@
 /********************************************************************************
- *  G4SimpleCapGam: Geant4 Extension for Neutron Capture Gamma De-Excitation    *
+ *  G4CASCADE: Geant4 Extension for Neutron Capture Gamma De-Excitation    *
  *                                                                              *
  *  Description:                                                                *
- *  G4SimpleCapGam is a Geant4 extension designed to handle the de-excitation   *
+ *  G4CASCADE is a Geant4 extension designed to handle the de-excitation   *
  *  of a nucleus excited by a neutron capture event. It utilizes basic level    *
  *  structure data from the CapGam library to generate gamma energies and       *
  *  simulate the de-excitation process.                                         *
@@ -15,18 +15,18 @@
  *  - This code uses the CapGam library: https://www.nndc.bnl.gov/capgam/byTarget/ *
  *  - Parts of the implementation are adapted from Geant4: http://geant4.cern.ch *
  *                                                                              *
- *  To configure environment variables, please source configSimpleCapGam.sh     *
+ *  To configure environment variables, please source configCASCADE.sh     *
  ********************************************************************************/
 
-#include "G4SimpleCapGam.hh"
+#include "G4CASCADE.hh"
 
 using namespace std;
 
-G4SimpleCapGam::G4SimpleCapGam() { }
+G4CASCADE::G4CASCADE() { }
 
-G4SimpleCapGam::~G4SimpleCapGam() { }
+G4CASCADE::~G4CASCADE() { }
 
-G4ReactionProductVector* G4SimpleCapGam::GetGammas(G4Fragment nucleus, G4bool UseRawExcitation, G4bool AlwaysEmitGamma)
+G4ReactionProductVector* G4CASCADE::GetGammas(G4Fragment nucleus, G4bool UseRawExcitation, G4bool AlwaysEmitGamma)
 {
   //Declare and initialize result vector, level data, excitation energy, and highestObtainableLevel
   G4ReactionProductVector* theResult = new G4ReactionProductVector;
@@ -103,17 +103,17 @@ G4ReactionProductVector* G4SimpleCapGam::GetGammas(G4Fragment nucleus, G4bool Us
 
 }
 
-//Method to check if SimpleCapGam has data for a particular isotope
-bool G4SimpleCapGam::HasData(G4int Z, G4int A)
+//Method to check if CASCADE has data for a particular isotope
+bool G4CASCADE::HasData(G4int Z, G4int A)
 {
-  G4String dataDir = std::getenv("SIMPLE_CAPGAM_DATA_DIR");
+  G4String dataDir = std::getenv("CASCADE_DATA_DIR");
   G4String name = dataDir + "/" + std::to_string(Z) + "-" + std::to_string(A) + ".txt";
   ifstream f(name.c_str());
   return f.good();
 }
 
 //method to retrieve level data from CapGamData directory
-vector<vector<vector<G4double>>> G4SimpleCapGam::GetLevels(G4int Z, G4int A)
+vector<vector<vector<G4double>>> G4CASCADE::GetLevels(G4int Z, G4int A)
 {
   G4String dataDir = std::getenv("SIMPLE_CAPGAM_DATA_DIR");
   G4String name = dataDir + "/" + std::to_string(Z) + "-" + std::to_string(A) + ".txt";
@@ -173,7 +173,7 @@ vector<vector<vector<G4double>>> G4SimpleCapGam::GetLevels(G4int Z, G4int A)
 }
 
 //Method to generate a G4ThreeVector with a random direction
-G4ThreeVector G4SimpleCapGam::GetRandomDirection()
+G4ThreeVector G4CASCADE::GetRandomDirection()
 {
   CLHEP::HepRandom::setTheEngine(new CLHEP::MTwistEngine);
   CLHEP::HepRandom::setTheSeed(time(NULL));
