@@ -15,11 +15,11 @@
 
 using namespace std;
 
-class G4SimpleCapGam
+class G4CASCADE
 {
   public:
-    G4SimpleCapGam();
-   ~G4SimpleCapGam();
+    G4CASCADE();
+   ~G4CASCADE();
 
     bool HasData(G4int Z, G4int A);
     vector<vector<vector<G4double>>> GetLevels(G4int Z, G4int A);
