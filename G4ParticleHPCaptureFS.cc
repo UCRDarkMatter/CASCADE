@@ -47,8 +47,10 @@
 #include "G4IonTable.hh" 
 #include "G4ParticleHPDataUsed.hh"
 
-//Added for G4SimpleCapGam:
-#include "G4SimpleCapGam.hh"
+//Added for CASCADE:
+#include "G4CASCADE.hh"
+
+G4CASCADE* cascade = new G4CASCADE();
 
   G4HadFinalState * G4ParticleHPCaptureFS::ApplyYourself(const G4HadProjectile & theTrack)
   {
@@ -84,21 +86,19 @@
     // Sample the photons
     G4ReactionProductVector * thePhotons = 0;
 
-    //Begin addition for G4SimpleCapGam
+    //Begin addition for G4CASCADE
 
-    G4SimpleCapGam* simpleCapGam = new G4SimpleCapGam(); //slow implementation, should be declared and intialized in header file, but header file couldn't be modified
-
-    //use G4SimpleCapGam if SCG has data and environment variable to use SCG is set to 1
-    if (std::stod(std::getenv("G4NEUTRONHP_USE_SIMPLE_CAPGAM")) == 1 and simpleCapGam->HasData(static_cast<G4int>(theBaseZ), static_cast<G4int>(theBaseA+1)))
+    //use G4CASCADE if CASCADE has data and environment variable to use CASCADE is set to 1
+    if (std::stod(std::getenv("G4NEUTRONHP_USE_CASCADE")) == 1 and cascade->HasData(static_cast<G4int>(theBaseZ), static_cast<G4int>(theBaseA+1)))
     {
       G4ThreeVector aCMSMomentum = theNeutron.GetMomentum()+theTarget.GetMomentum();
       G4LorentzVector p4(aCMSMomentum, theTarget.GetTotalEnergy() + theNeutron.GetTotalEnergy());
       G4Fragment nucleus(static_cast<G4int>(theBaseA+1), static_cast<G4int>(theBaseZ) ,p4);
 
       thePhotons = new G4ReactionProductVector;
-      thePhotons = simpleCapGam->GetGammas(nucleus, std::stod(std::getenv("G4NEUTRONHP_USE_RAW_EXCITATION")) == 1, std::stod(std::getenv("G4NEUTRONHP_ALWAYS_EMIT_GAMMA")) == 1);
+      thePhotons = cascade->GetGammas(nucleus, std::stod(std::getenv("G4NEUTRONHP_USE_RAW_EXCITATION")) == 1, std::stod(std::getenv("G4NEUTRONHP_ALWAYS_EMIT_GAMMA")) == 1);
 
-    }//End addition for G4SimpleCapGam
+    }//End addition for G4CASCADE
 
     else if ( HasFSData() && !G4ParticleHPManager::GetInstance()->GetUseOnlyPhotoEvaporation() ) 
     { 
