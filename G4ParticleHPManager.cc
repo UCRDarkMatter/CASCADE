@@ -319,13 +319,13 @@ void G4ParticleHPManager::RegisterInelasticFinalStates( const G4ParticleDefiniti
    theInelasticFSs.insert ( std::pair<const G4ParticleDefinition*,std::vector<G4ParticleHPChannelList*>*>( particle , val ) ); 
 }
 
-//UseSimpleCapGam, UseRawExcitation, and AlwaysEmitGamma were added for G4SimpleCapGam
+//UseCASCADE, UseRawExcitation, and AlwaysEmitGamma were added for G4CASCADE
 void G4ParticleHPManager::DumpSetting() {
   G4cout << G4endl
          << "=======================================================" << G4endl
          << "======       ParticleHP Physics Parameters     ========" << G4endl
          << "=======================================================" << G4endl
-         << " UseSimpleCapGam ?         " << std::getenv("G4NEUTRONHP_USE_SIMPLE_CAPGAM") << G4endl
+         << " UseCASCADE ?         " << std::getenv("G4NEUTRONHP_USE_CASCADE") << G4endl
          << " UseRawExcitation ?        " << std::getenv("G4NEUTRONHP_USE_RAW_EXCITATION") << G4endl
          << " AlwaysEmitGamma ?         " << std::getenv("G4NEUTRONHP_ALWAYS_EMIT_GAMMA") << G4endl
          << " UseOnlyPhotoEvaporation ? " << USE_ONLY_PHOTONEVAPORATION << G4endl
