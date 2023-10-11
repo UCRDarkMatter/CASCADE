@@ -10,7 +10,7 @@ For ease of use, it is best to place the CASCADE folder in your root directory. 
 
 ### Using CASCADE with a Geant4 example
 
-First, run compile and run the example as yo unormally would in its directory. Next, copy the example directory (for example, examples/extended/hadronic/Hadr03) to a different directory where it can be modified, then place G4CASCADE.cc, G4ParticleHPCaptureFS.cc, G4ParticleHPMessenger.cc, and G4ParticleHPManager.cc into the /src directory. Place G4CASCADE.hh into the /include directory. compile the example by going to the main example directory (ex: Hadr03) and running the command "make". The example should automatically compile the new files and use them instead of the default Geant files. It's important to note that this example needs to use the high-precision neutron capture model (HP) in order to utilize G4CASCADE.
+First, run compile and run the example as you normally would in its directory. Next, copy the example directory (for example, examples/extended/hadronic/Hadr03) to a different directory where it can be modified, then place G4CASCADE.cc, G4ParticleHPCaptureFS.cc, G4ParticleHPMessenger.cc, and G4ParticleHPManager.cc into the /src directory. Place G4CASCADE.hh into the /include directory. compile the example by going to the main example directory (ex: Hadr03) and running the command "make". The example should automatically compile the new files and use them instead of the default Geant files. It's important to note that this example needs to use the high-precision neutron capture model (HP) in order to utilize G4CASCADE.
 
 ### Using CASCADE with other Geant4 programs
 
