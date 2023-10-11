@@ -325,7 +325,7 @@ void G4ParticleHPManager::DumpSetting() {
          << "=======================================================" << G4endl
          << "======       ParticleHP Physics Parameters     ========" << G4endl
          << "=======================================================" << G4endl
-         << " UseCASCADE ?         " << std::getenv("G4NEUTRONHP_USE_CASCADE") << G4endl
+         << " UseCASCADE ?              " << std::getenv("G4NEUTRONHP_USE_CASCADE") << G4endl
          << " UseRawExcitation ?        " << std::getenv("G4NEUTRONHP_USE_RAW_EXCITATION") << G4endl
          << " AlwaysEmitGamma ?         " << std::getenv("G4NEUTRONHP_ALWAYS_EMIT_GAMMA") << G4endl
          << " UseOnlyPhotoEvaporation ? " << USE_ONLY_PHOTONEVAPORATION << G4endl
