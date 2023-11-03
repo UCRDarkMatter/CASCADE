@@ -115,7 +115,7 @@ bool G4CASCADE::HasData(G4int Z, G4int A)
 //method to retrieve level data from CapGamData directory
 vector<vector<vector<G4double>>> G4CASCADE::GetLevels(G4int Z, G4int A)
 {
-  G4String dataDir = std::getenv("SIMPLE_CAPGAM_DATA_DIR");
+  G4String dataDir = std::getenv("CASCADE_DATA_DIR");
   G4String name = dataDir + "/" + std::to_string(Z) + "-" + std::to_string(A) + ".txt";
   ifstream newfile;
   newfile.open(name);
