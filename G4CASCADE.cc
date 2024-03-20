@@ -48,6 +48,27 @@ G4ReactionProductVector* G4CASCADE::GetGammas(G4Fragment nucleus, G4bool UseRawE
 
   }else {
     exciteE = nucleus.GetExcitationEnergy();
+
+    G4double Product_GroundStateMass = nucleus.GetGroundStateMass();
+    G4int isoZ = nucleus.GetZ_asInt();
+    G4int isoA = nucleus.GetA_asInt();
+    G4Fragment target,the_neutron;
+    G4double Target_GroundStateMass = target.ComputeGroundStateMass(isoZ, isoA-1);
+    G4double Neutron_GroundStateMass = the_neutron.ComputeGroundStateMass(0,1);
+    G4double Q_value_estimate = Neutron_GroundStateMass+Target_GroundStateMass-Product_GroundStateMass;
+
+    G4double maxLevel = 0;
+    //find the top energy level
+    for(int c=0; c<levels.size(); c++) {
+      if(levels[c][0][0] > maxLevel) {
+        maxLevel = levels[c][0][0];
+      }
+    }
+
+    G4double Q_correction = maxLevel-Q_value_estimate;
+    exciteE += Q_correction;
+
+
     G4double highestObtainableLevel = 0;
 
     //find the highest energy level with energy less than the excitation energy
