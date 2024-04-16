@@ -73,7 +73,7 @@ G4ReactionProductVector* G4CASCADE::GetGammas(G4Fragment nucleus, G4bool UseRawE
 
     //find the highest energy level with energy less than the excitation energy
     for(int c=0; c<levels.size(); c++) {
-      if(levels[c][0][0] < exciteE and levels[c][0][0] > highestObtainableLevel) {
+      if(levels[c][0][0] <= exciteE and levels[c][0][0] > highestObtainableLevel) {
         highestObtainableLevel = levels[c][0][0];
       }
     }
