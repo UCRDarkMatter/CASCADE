@@ -173,7 +173,7 @@ vector<vector<vector<G4double>>> G4CASCADE::GetLevels(G4int Z, G4int A)
       c++;
     }
   }
-
+  newfile.close();
   vector<vector<vector<G4double>>> levelDoubs;
   double val;
   for(int c1=0; c1<levelStrings.size(); c1++) {
