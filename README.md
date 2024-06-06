@@ -24,7 +24,7 @@ This version of G4CASCADE is designed for Geant4-10.7.4.
 3. Place all the files from G4CASCADE’s `src` folder into the `/src` directory of the example.
 4. Place all the files from G4CASCADE’s `include` folder into the `/include` directory of the example.
 5. Compile the example by navigating to the main example directory (e.g., `Hadr03`) and running the command `make`. The example should automatically compile the new files and use them instead of the default Geant files.
-6. Ensure the example uses the high-precision neutron capture model (HP) to utilize G4CASCADE.
+6. Ensure the example uses the high-precision neutron capture model (HP). Otherwise G4CASCADE will not be used.
 
 ## Using G4CASCADE with Other Geant4 Programs
 
