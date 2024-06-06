@@ -1,4 +1,4 @@
-dataDir=/home/leoweimer/teststuff
-outputDir=/home/leoweimer/CapGamBins
+dataDir=/path/to/LevelStructureTXTs
+outputDir=/path/to/output/directory
 justUseName=0
 verbose=0
