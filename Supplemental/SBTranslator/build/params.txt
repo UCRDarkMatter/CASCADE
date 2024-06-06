@@ -1,0 +1,4 @@
+dataDir=/home/leoweimer/teststuff
+outputDir=/home/leoweimer/CapGamBins
+justUseName=0
+verbose=0
