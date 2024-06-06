@@ -57,8 +57,6 @@ verbose=(integer)
     - `1`: Describes various aspects of its execution.
     - `2`: Describes in detail what is happening.
 
-### Example ENSDF File
-
 An example ENSDF file (`12_26.txt`) is provided in the `Supplemental` folder. The input file name string must have the format `Z_A.txt`, and the output file will have the format `Z-A.txt`. In both cases, A is that of the nucleus post-capture.
 
 ## SBTranslator
