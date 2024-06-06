@@ -26,7 +26,7 @@ The level structure diagram in `Supplemental` shows how the nuclear level struct
 
 ## ASCIITranslator
 
-`ASCIITranslator` translates data from a raw ENSDF `.txt` file into a level structure `.txt` file that is more legible and readable by `SBTranslator`.
+`ASCIITranslator` translates data from a raw ENSDF `.txt` file into a level structure `.txt` file that is more legible and readable by `SBTranslator`. An example ENSDF file (`12_26.txt`) is provided in the `Supplemental` folder. The input file name string must have the format `Z_A.txt`, and the output file will have the format `Z-A.txt`. In both cases, A is that of the nucleus post-capture.
 
 ### Running ASCIITranslator
 
@@ -56,8 +56,6 @@ verbose=(integer)
     - `0`: No console output unless there is a critical error.
     - `1`: Describes various aspects of its execution.
     - `2`: Describes in detail what is happening.
-
-An example ENSDF file (`12_26.txt`) is provided in the `Supplemental` folder. The input file name string must have the format `Z_A.txt`, and the output file will have the format `Z-A.txt`. In both cases, A is that of the nucleus post-capture.
 
 ## SBTranslator
 
