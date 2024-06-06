@@ -1,4 +1,4 @@
-dataDir=/home/leoweimer/ENSDFThermCapData
-outputDir=/home/leoweimer/teststuff
+dataDir=/path/to/ENSDFThermCapData
+outputDir=/path/to/output/directory
 justUseName=0
 verbose=0
