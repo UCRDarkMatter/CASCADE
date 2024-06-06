@@ -33,9 +33,10 @@ This version of G4CASCADE is designed for Geant4-10.7.4.
 3. Make sure your project uses a physics list that includes the high-precision neutron capture model.
 4. Build and compile your project with G4CASCADE using CMake.
 
-## Important Notes
+## Notes
 
 - Check G4CASCADE's agreement/accuracy for the isotope(s) you're simulating.
+- To prevent CASCADE from simulating a certain isotope, remove that isotope’s file from `CapGamData`. Geant4 will then use its default methods to simulate neutron capture for this isotope.
 
 ## CapGamData Directory
 
@@ -56,10 +57,6 @@ The elements of each array are preceded by the size of the array in the .bin fil
 - `G4NEUTRONHP_USE_RAW_EXCITATION`: Set to `1` (true) to use the excitation energy of the nucleus post-capture as in G4ParticleHPCaptureFS plus a correction factor. Set to `0` (false) for a fixed excitation energy.
 - `G4NEUTRONHP_DO_UNPLACED`: Set to `1` (true) to simulate unplaced gammas in the ENSDF nuclear level structure. This will require the use of Photon Evaporation to de-excite further. Set to `0` (false) to ignore unplaced gammas.
 - `CAPGAM_DATA_DIR`: Set the directory of the CapGamData database.
-
-## Preventing Simulation of Certain Isotopes
-
-To prevent CASCADE from simulating a certain isotope, remove that isotope’s file from `CapGamData`. Geant4 will then use its default methods to simulate neutron capture for this isotope.
 
 ## Documentation and Contact
 
