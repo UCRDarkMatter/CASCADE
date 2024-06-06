@@ -40,12 +40,14 @@ This version of G4CASCADE is designed for Geant4-10.7.4.
 ## CapGamData Directory
 
 Each file in CapGamData contains serialized binary data that describes a 3D vector of doubles which encodes the nuclear level structure of the post-capture isotope. Each 2D vector in the 3D vector represents a level, with the first element of the first array being the energy of that level. Each 1D vector within each 2D vector represents a transition on that level, with the first element being the level to go to, the second element being the branching ratio, and the third element being the type of transition:
+
  - 0 = no emission (not in current CASCADE version, but in older versions)
  - 1 = gamma
  - 2 = electron
  - -1 = unplaced gamma
  - -2 = unplaced electron
  - -3 = transition using photon evaporation
+
 The elements of each array are preceded by the size of the array in the .bin file. There is a diagram in the “Supplemental” folder to help visualize the way the level structure is encoded into the 3D vector and binary file. More information on this diagram can be found in the README file in the Supplemental folder.
 
 ## Environment Variables
