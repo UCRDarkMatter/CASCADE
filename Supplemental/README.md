@@ -7,7 +7,7 @@ The file `resStats.txt` contains information describing the level of agreement b
 - **Ave Res**: Represents the average residual (difference) between a model and ENSDF over all energies.
 - **Max Res**: Represents the energy channel which has the highest residual for that model and isotope.
 
-Better agreement is indicated by lower values of Ave Res and Max Res. Note that there is no residual information for 17-36, as this isotope doesn’t have valid CapGam spectrum data for comparison, though it can still be simulated by CASCADE.
+These values are given for NDL (stock model), Photon Evaporation (stock model), CASCADE without unplaced gammas, and CASCADE with unplaced gammas (u). Better agreement is indicated by lower values of Ave Res and Max Res. Note that there is no residual information for 17-36, as this isotope doesn’t have valid CapGam spectrum data for comparison, though it can still be simulated by CASCADE.
 
 ## Graphs Folder
 
