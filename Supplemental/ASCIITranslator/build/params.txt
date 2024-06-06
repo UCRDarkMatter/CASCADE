@@ -1,0 +1,4 @@
+dataDir=/home/leoweimer/ENSDFThermCapData
+outputDir=/home/leoweimer/teststuff
+justUseName=0
+verbose=0
