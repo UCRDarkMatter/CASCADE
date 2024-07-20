@@ -70,6 +70,7 @@ Compiling and running `SBTranslator` is similar to `ASCIITranslator`, and it use
 The `LevelStructureTXTs` folder contains plaintext versions of the level structure files, formatted as follows:
 
 ~~~text
+[Level energy]
  - [Level to go to energy in keV], [branching ratio]
  - [Another level to go to], [branching ratio]
  E [Another level to go to (electron (IC) emitted instead of gamma)], [branching ratio]
