@@ -150,7 +150,7 @@ G4ReactionProductVector* G4CASCADE::GetGammas(G4Fragment nucleus, G4bool UseRawE
         sumProbs.push_back(prev + levels[levelIndex][c][1]);
         prev = sumProbs[c-1];
       }
-      G4double random = ((float) rand()/RAND_MAX) * sumProbs[sumProbs.size()-1];
+      G4double random = (G4UniformRand()) * sumProbs[sumProbs.size()-1];
       for(int c=0; c<(int)sumProbs.size(); c++) {
         if(random < sumProbs[c] and (levels[levelIndex][c+1][2] > 0 or doUnplaced)) {
           if(levels[levelIndex][c+1][2] == 1 * CLHEP::keV or (levels[levelIndex][c+1][2] == -1 * CLHEP::keV and doUnplaced)) {
@@ -164,7 +164,7 @@ G4ReactionProductVector* G4CASCADE::GetGammas(G4Fragment nucleus, G4bool UseRawE
 	    newEl->SetDefinition( G4Electron::Electron() );
   	    G4RDAtomicDeexcitation* AtoDeex = new G4RDAtomicDeexcitation;
   	    vector<G4DynamicParticle*>* ADGammas;
-	    G4double ICrand = ((float) rand()/RAND_MAX);
+	    G4double ICrand = (G4UniformRand());
 
 	    //Choose which shell to eject electron from based on constant percentages, do atomic deexcitation
 	    if(ICrand <= 0.893){
@@ -256,12 +256,9 @@ vector<vector<vector<G4double>>> G4CASCADE::GetLevels(G4int Z, G4int A)
 //Method to generate a G4ThreeVector with a random direction
 G4ThreeVector G4CASCADE::GetRandomDirection()
 {
-  CLHEP::HepRandom::setTheEngine(new CLHEP::MTwistEngine);
-  CLHEP::HepRandom::setTheSeed(time(NULL));
-
-  G4double costheta = 2.*((float) rand()/RAND_MAX)-1.;
+  G4double costheta = 2.*(G4UniformRand())-1.;
   G4double theta = std::acos(costheta);
-  G4double phi = twopi*((float) rand()/RAND_MAX);
+  G4double phi = twopi*(G4UniformRand());
   G4double sinth = std::sin(theta);
   G4ThreeVector direction(sinth*std::cos(phi), sinth*std::sin(phi), costheta);
   return direction;
