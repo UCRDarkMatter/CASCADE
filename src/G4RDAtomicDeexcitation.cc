@@ -170,7 +170,7 @@ G4int G4RDAtomicDeexcitation::SelectTypeOfTransition(G4int Z, G4int shellId)
 	}
       G4int transProb = 0; //AM change 29/6/07 was 1
    
-      G4double partialProb = ((float) rand()/RAND_MAX);      
+      G4double partialProb = (G4UniformRand());      
       G4double partSum = 0;
       const G4RDFluoTransition* aShell = transitionManager->ReachableShell(Z,shellNum);      
       G4int trSize =  (aShell->TransitionProbabilities()).size();
@@ -219,9 +219,9 @@ G4DynamicParticle* G4RDAtomicDeexcitation::GenerateFluorescence(G4int Z,
   //  G4int provenienceShell = provShellId;
 
   //isotropic angular distribution for the outcoming photon
-  G4double newcosTh = 1.-2.*((float) rand()/RAND_MAX);
+  G4double newcosTh = 1.-2.*(G4UniformRand());
   G4double  newsinTh = std::sqrt(1.-newcosTh*newcosTh);
-  G4double newPhi = CLHEP::twopi*((float) rand()/RAND_MAX);
+  G4double newPhi = CLHEP::twopi*(G4UniformRand());
   
   G4double xDir =  newsinTh*std::sin(newPhi);
   G4double yDir = newsinTh*std::cos(newPhi);
@@ -415,7 +415,7 @@ G4DynamicParticle* G4RDAtomicDeexcitation::GenerateAuger(G4int Z, G4int shellId)
       G4int transitionRandomShellId = 1;
       G4int augerIndex = 0;
       partSum = 0; 
-      G4double partialProb = ((float) rand()/RAND_MAX);
+      G4double partialProb = (G4UniformRand());
       // G4int augerOriginatingShellId = 0;
       
       G4int numberOfPossibleAuger = 
@@ -456,9 +456,9 @@ G4DynamicParticle* G4RDAtomicDeexcitation::GenerateAuger(G4int Z, G4int shellId)
       if (!foundFlag) {return 0;}      
       
       // Isotropic angular distribution for the outcoming e-
-      G4double newcosTh = 1.-2.*((float) rand()/RAND_MAX);
+      G4double newcosTh = 1.-2.*(G4UniformRand());
       G4double  newsinTh = std::sqrt(1.-newcosTh*newcosTh);
-      G4double newPhi = CLHEP::twopi*((float) rand()/RAND_MAX);
+      G4double newPhi = CLHEP::twopi*(G4UniformRand());
       
       G4double xDir =  newsinTh*std::sin(newPhi);
       G4double yDir = newsinTh*std::cos(newPhi);
