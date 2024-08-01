@@ -1,0 +1,2062 @@
+10-21
+CASCADE Max Res: 1.23291
+CASCADE Ave Res: 0.0556966
+CASCADE (u) Max Res: 1.23291
+CASCADE (u) Ave Res: 0.0556966
+NDL Max Res: 99.7307
+NDL Ave Res: 3.71281
+Photo Max Res: 100
+Photo Ave Res: 4.69606
+
+10-22
+CASCADE Max Res: 26
+CASCADE Ave Res: 1.1556
+CASCADE (u) Max Res: 26
+CASCADE (u) Ave Res: 1.1556
+NDL Max Res: 45.9773
+NDL Ave Res: 3.42945
+Photo Max Res: 44.7363
+Photo Ave Res: 3.06871
+
+10-23
+CASCADE Max Res: 1.62035
+CASCADE Ave Res: 0.0378696
+CASCADE (u) Max Res: 1.62035
+CASCADE (u) Ave Res: 0.0378696
+NDL Max Res: 99.8711
+NDL Ave Res: 6.91925
+Photo Max Res: 76.369
+Photo Ave Res: 5.74667
+
+11-24
+CASCADE Max Res: 3.01827
+CASCADE Ave Res: 0.178042
+CASCADE (u) Max Res: 3.03073
+CASCADE (u) Ave Res: 0.162209
+NDL Max Res: 32.9387
+NDL Ave Res: 3.05595
+Photo Max Res: 20.463
+Photo Ave Res: 2.35112
+
+12-25
+CASCADE Max Res: 1.79438
+CASCADE Ave Res: 0.0718358
+CASCADE (u) Max Res: 1.47873
+CASCADE (u) Ave Res: 0.0667484
+NDL Max Res: 98.547
+NDL Ave Res: 5.44581
+Photo Max Res: 99.955
+Photo Ave Res: 5.87032
+
+12-26
+CASCADE Max Res: 1.05841
+CASCADE Ave Res: 0.150456
+CASCADE (u) Max Res: 0.872425
+CASCADE (u) Ave Res: 0.145286
+NDL Max Res: 73.1305
+NDL Ave Res: 4.65367
+Photo Max Res: 23.8068
+Photo Ave Res: 1.82273
+
+12-27
+CASCADE Max Res: 2.16079
+CASCADE Ave Res: 0.0797499
+CASCADE (u) Max Res: 2.16079
+CASCADE (u) Ave Res: 0.0797499
+NDL Max Res: 92.4002
+NDL Ave Res: 5.6882
+Photo Max Res: 96.0821
+Photo Ave Res: 4.50999
+
+1-2
+CASCADE Max Res: 0
+CASCADE Ave Res: 0
+CASCADE (u) Max Res: 0
+CASCADE (u) Ave Res: 0
+NDL Max Res: 0
+NDL Ave Res: 0
+Photo Max Res: 0
+Photo Ave Res: 0
+
+13-28
+CASCADE Max Res: 21.8266
+CASCADE Ave Res: 1.39738
+CASCADE (u) Max Res: 21.4055
+CASCADE (u) Ave Res: 1.28275
+NDL Max Res: 63.1835
+NDL Ave Res: 4.71649
+Photo Max Res: 95.9402
+Photo Ave Res: 4.8952
+
+1-3
+CASCADE Max Res: 0
+CASCADE Ave Res: 0
+CASCADE (u) Max Res: 0
+CASCADE (u) Ave Res: 0
+NDL Max Res: 0
+NDL Ave Res: 0
+Photo Max Res: 0
+Photo Ave Res: 0
+
+14-29
+CASCADE Max Res: 10.2457
+CASCADE Ave Res: 0.256432
+CASCADE (u) Max Res: 10.2457
+CASCADE (u) Ave Res: 0.256432
+NDL Max Res: 64.0449
+NDL Ave Res: 0.704065
+Photo Max Res: 100
+Photo Ave Res: 6.35058
+
+14-30
+CASCADE Max Res: 3.42778
+CASCADE Ave Res: 0.313197
+CASCADE (u) Max Res: 3.79881
+CASCADE (u) Ave Res: 0.293999
+NDL Max Res: 2.94813
+NDL Ave Res: 0.178648
+Photo Max Res: 89.3271
+Photo Ave Res: 6.21037
+
+15-32
+CASCADE Max Res: 36.3971
+CASCADE Ave Res: 1.53798
+CASCADE (u) Max Res: 35.164
+CASCADE (u) Ave Res: 1.38378
+NDL Max Res: 79.3992
+NDL Ave Res: 5.26033
+Photo Max Res: 6.67521
+Photo Ave Res: 0.765588
+
+16-33
+CASCADE Max Res: 4.71903
+CASCADE Ave Res: 0.268826
+CASCADE (u) Max Res: 6.00352
+CASCADE (u) Ave Res: 0.304475
+NDL Max Res: 88.529
+NDL Ave Res: 5.67904
+Photo Max Res: 6.05128
+Photo Ave Res: 0.42875
+
+16-35
+CASCADE Max Res: 12.3788
+CASCADE Ave Res: 0.372383
+CASCADE (u) Max Res: 12.3182
+CASCADE (u) Ave Res: 0.369858
+NDL Max Res: 100
+NDL Ave Res: 8.2642
+Photo Max Res: 14.436
+Photo Ave Res: 0.438154
+
+16-37
+CASCADE Max Res: 4.80367
+CASCADE Ave Res: 0.0990604
+CASCADE (u) Max Res: 4.80367
+CASCADE (u) Ave Res: 0.0990604
+NDL Max Res: 74.7445
+NDL Ave Res: 2.87508
+Photo Max Res: 5.03234
+Photo Ave Res: 0.0866179
+
+17-36
+RESIDUAL INFORMATION NOT AVAILABLE (but this isotope can still be simulated with CASCADE)
+
+17-38
+CASCADE Max Res: 21.3857
+CASCADE Ave Res: 1.44713
+CASCADE (u) Max Res: 21.865
+CASCADE (u) Ave Res: 1.21403
+NDL Max Res: 87.9801
+NDL Ave Res: 1.37122
+Photo Max Res: 87.2699
+Photo Ave Res: 5.42068
+
+18-37
+CASCADE Max Res: 71.0577
+CASCADE Ave Res: 1.97076
+CASCADE (u) Max Res: 71.0577
+CASCADE (u) Ave Res: 1.97076
+NDL Max Res: 100
+NDL Ave Res: 6.47179
+Photo Max Res: 42.6766
+Photo Ave Res: 2.05894
+
+18-41
+CASCADE Max Res: 10.2111
+CASCADE Ave Res: 0.542972
+CASCADE (u) Max Res: 10.253
+CASCADE (u) Ave Res: 0.512198
+NDL Max Res: 68.8178
+NDL Ave Res: 2.8937
+Photo Max Res: 57.7035
+Photo Ave Res: 3.54247
+
+19-40
+CASCADE Max Res: 4.48932
+CASCADE Ave Res: 0.404302
+CASCADE (u) Max Res: 5.9578
+CASCADE (u) Ave Res: 0.453168
+NDL Max Res: 22.5236
+NDL Ave Res: 2.20809
+Photo Max Res: 33.9652
+Photo Ave Res: 2.72309
+
+19-41
+CASCADE Max Res: 12.5252
+CASCADE Ave Res: 1.23939
+CASCADE (u) Max Res: 7.68177
+CASCADE (u) Ave Res: 0.949163
+NDL Max Res: 98.5529
+NDL Ave Res: 4.97902
+Photo Max Res: 36.1963
+Photo Ave Res: 4.42254
+
+19-42
+CASCADE Max Res: 4.35468
+CASCADE Ave Res: 0.583667
+CASCADE (u) Max Res: 2.39559
+CASCADE (u) Ave Res: 0.474884
+NDL Max Res: 36.8357
+NDL Ave Res: 4.68113
+Photo Max Res: 25.9411
+Photo Ave Res: 2.6498
+
+20-41
+CASCADE Max Res: 6.53396
+CASCADE Ave Res: 0.264336
+CASCADE (u) Max Res: 5.21566
+CASCADE (u) Ave Res: 0.284582
+NDL Max Res: 100
+NDL Ave Res: 6.65565
+Photo Max Res: 34.5248
+Photo Ave Res: 5.09136
+
+20-43
+CASCADE Max Res: 20.6842
+CASCADE Ave Res: 0.665493
+CASCADE (u) Max Res: 17.8294
+CASCADE (u) Ave Res: 0.684907
+NDL Max Res: 99.8868
+NDL Ave Res: 4.32054
+Photo Max Res: 92.5903
+Photo Ave Res: 6.2219
+
+20-44
+CASCADE Max Res: 17.9354
+CASCADE Ave Res: 1.05536
+CASCADE (u) Max Res: 3.32038
+CASCADE (u) Ave Res: 0.843363
+NDL Max Res: 36.8756
+NDL Ave Res: 1.46244
+Photo Max Res: 4.61795
+Photo Ave Res: 0.62571
+
+20-45
+CASCADE Max Res: 16.1395
+CASCADE Ave Res: 0.671809
+CASCADE (u) Max Res: 14.8764
+CASCADE (u) Ave Res: 0.56755
+NDL Max Res: 69.8991
+NDL Ave Res: 3.32799
+Photo Max Res: 65.7107
+Photo Ave Res: 3.58403
+
+20-47
+CASCADE Max Res: 3.22862
+CASCADE Ave Res: 0.066642
+CASCADE (u) Max Res: 3.22862
+CASCADE (u) Ave Res: 0.066642
+NDL Max Res: 68.0917
+NDL Ave Res: 3.93677
+Photo Max Res: 38.4312
+Photo Ave Res: 2.2456
+
+20-49
+CASCADE Max Res: 0.0532787
+CASCADE Ave Res: 0.00106557
+CASCADE (u) Max Res: 0.0532787
+CASCADE (u) Ave Res: 0.00106557
+NDL Max Res: 94.4742
+NDL Ave Res: 3.80345
+Photo Max Res: 100
+Photo Ave Res: 3.66667
+
+21-46
+CASCADE Max Res: 11.7511
+CASCADE Ave Res: 0.707332
+CASCADE (u) Max Res: 5.06661
+CASCADE (u) Ave Res: 0.485778
+NDL Max Res: 48.34
+NDL Ave Res: 3.06725
+Photo Max Res: 16.7391
+Photo Ave Res: 2.69881
+
+22-47
+CASCADE Max Res: 60
+CASCADE Ave Res: 5.21887
+CASCADE (u) Max Res: 41.1894
+CASCADE (u) Ave Res: 4.01047
+NDL Max Res: 45.5849
+NDL Ave Res: 4.68748
+Photo Max Res: 38.119
+Photo Ave Res: 5.79161
+
+22-48
+CASCADE Max Res: 5.29124
+CASCADE Ave Res: 0.666913
+CASCADE (u) Max Res: 4.386
+CASCADE (u) Ave Res: 0.585697
+NDL Max Res: 42.9835
+NDL Ave Res: 2.3985
+Photo Max Res: 17.4393
+Photo Ave Res: 2.20592
+
+22-49
+CASCADE Max Res: 9.76177
+CASCADE Ave Res: 0.207923
+CASCADE (u) Max Res: 10.1962
+CASCADE (u) Ave Res: 0.224559
+NDL Max Res: 69.9195
+NDL Ave Res: 6.03756
+Photo Max Res: 46.226
+Photo Ave Res: 6.4022
+
+22-50
+CASCADE Max Res: 5.52709
+CASCADE Ave Res: 0.463804
+CASCADE (u) Max Res: 3.60625
+CASCADE (u) Ave Res: 0.319294
+NDL Max Res: 50.0487
+NDL Ave Res: 2.50888
+Photo Max Res: 8.862
+Photo Ave Res: 0.463921
+
+22-51
+CASCADE Max Res: 70.8142
+CASCADE Ave Res: 1.45759
+CASCADE (u) Max Res: 70.8142
+CASCADE (u) Ave Res: 1.45759
+NDL Max Res: 100
+NDL Ave Res: 8.93693
+Photo Max Res: 100
+Photo Ave Res: 7.05251
+
+23-51
+CASCADE Max Res: 22.0061
+CASCADE Ave Res: 1.19413
+CASCADE (u) Max Res: 8.11451
+CASCADE (u) Ave Res: 1.15296
+NDL Max Res: 89.113
+NDL Ave Res: 5.55755
+Photo Max Res: 89.113
+Photo Ave Res: 7.42084
+
+23-52
+CASCADE Max Res: 33.1897
+CASCADE Ave Res: 4.07493
+CASCADE (u) Max Res: 34.7626
+CASCADE (u) Ave Res: 3.69554
+NDL Max Res: 86.7987
+NDL Ave Res: 9.19333
+Photo Max Res: 73.6284
+Photo Ave Res: 9.05421
+
+24-51
+CASCADE Max Res: 2.68428
+CASCADE Ave Res: 0.161535
+CASCADE (u) Max Res: 2.12369
+CASCADE (u) Ave Res: 0.212057
+NDL Max Res: 37.5
+NDL Ave Res: 4.43532
+Photo Max Res: 21.3054
+Photo Ave Res: 0.434144
+
+24-53
+CASCADE Max Res: 9.12024
+CASCADE Ave Res: 0.247252
+CASCADE (u) Max Res: 2.88823
+CASCADE (u) Ave Res: 0.0965556
+NDL Max Res: 100
+NDL Ave Res: 8.28231
+Photo Max Res: 99.553
+Photo Ave Res: 8.21568
+
+24-54
+CASCADE Max Res: 6.27416
+CASCADE Ave Res: 0.266475
+CASCADE (u) Max Res: 6.19308
+CASCADE (u) Ave Res: 0.2706
+NDL Max Res: 55.6739
+NDL Ave Res: 2.67604
+Photo Max Res: 99.9399
+Photo Ave Res: 6.70064
+
+24-55
+CASCADE Max Res: 9.88594
+CASCADE Ave Res: 0.571654
+CASCADE (u) Max Res: 8.46255
+CASCADE (u) Ave Res: 0.514018
+NDL Max Res: 77.2792
+NDL Ave Res: 3.32342
+Photo Max Res: 98.9213
+Photo Ave Res: 5.68633
+
+25-56
+CASCADE Max Res: 32.2776
+CASCADE Ave Res: 4.52286
+CASCADE (u) Max Res: 33.9562
+CASCADE (u) Ave Res: 4.01563
+NDL Max Res: 36.2061
+NDL Ave Res: 5.26941
+Photo Max Res: 100
+Photo Ave Res: 10.1009
+
+26-55
+CASCADE Max Res: 10.6716
+CASCADE Ave Res: 0.517957
+CASCADE (u) Max Res: 3.95548
+CASCADE (u) Ave Res: 0.355759
+NDL Max Res: 62.9023
+NDL Ave Res: 1.34438
+Photo Max Res: 100
+Photo Ave Res: 6.26564
+
+26-57
+CASCADE Max Res: 65.1284
+CASCADE Ave Res: 4.57536
+CASCADE (u) Max Res: 69.9888
+CASCADE (u) Ave Res: 4.60274
+NDL Max Res: 60.7137
+NDL Ave Res: 1.45944
+Photo Max Res: 23.2285
+Photo Ave Res: 2.06561
+
+26-58
+CASCADE Max Res: 5.78342
+CASCADE Ave Res: 0.531923
+CASCADE (u) Max Res: 4.27734
+CASCADE (u) Ave Res: 0.549693
+NDL Max Res: 41.928
+NDL Ave Res: 2.4941
+Photo Max Res: 7.021
+Photo Ave Res: 0.63589
+
+26-59
+CASCADE Max Res: 10.6021
+CASCADE Ave Res: 0.868967
+CASCADE (u) Max Res: 10.4579
+CASCADE (u) Ave Res: 0.942751
+NDL Max Res: 56.0196
+NDL Ave Res: 2.38942
+Photo Max Res: 95.7561
+Photo Ave Res: 10.0143
+
+27-60
+CASCADE Max Res: 100
+CASCADE Ave Res: 3.24392
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 3.1552
+NDL Max Res: 90.4759
+NDL Ave Res: 7.05927
+Photo Max Res: 100
+Photo Ave Res: 5.60464
+
+28-59
+CASCADE Max Res: 3.77371
+CASCADE Ave Res: 0.216122
+CASCADE (u) Max Res: 3.57381
+CASCADE (u) Ave Res: 0.171692
+NDL Max Res: 45.1798
+NDL Ave Res: 1.98516
+Photo Max Res: 99.3685
+Photo Ave Res: 9.89224
+
+28-60
+CASCADE Max Res: 3.59591
+CASCADE Ave Res: 0.382736
+CASCADE (u) Max Res: 4.23852
+CASCADE (u) Ave Res: 0.356743
+NDL Max Res: 53.4039
+NDL Ave Res: 3.25289
+Photo Max Res: 4.17091
+Photo Ave Res: 0.328325
+
+28-61
+CASCADE Max Res: 2.15891
+CASCADE Ave Res: 0.12334
+CASCADE (u) Max Res: 3.19492
+CASCADE (u) Ave Res: 0.113999
+NDL Max Res: 51.1975
+NDL Ave Res: 2.8278
+Photo Max Res: 2.72059
+Photo Ave Res: 0.196128
+
+28-62
+CASCADE Max Res: 12.8827
+CASCADE Ave Res: 1.22346
+CASCADE (u) Max Res: 8.18998
+CASCADE (u) Ave Res: 1.11849
+NDL Max Res: 3.1272
+NDL Ave Res: 1.10604
+Photo Max Res: 13.9116
+Photo Ave Res: 1.30147
+
+28-63
+CASCADE Max Res: 7.62877
+CASCADE Ave Res: 0.193769
+CASCADE (u) Max Res: 7.30967
+CASCADE (u) Ave Res: 0.195129
+NDL Max Res: 91.8605
+NDL Ave Res: 4.9329
+Photo Max Res: 99.7014
+Photo Ave Res: 8.5047
+
+28-64
+CASCADE Max Res: 19.2982
+CASCADE Ave Res: 0.741526
+CASCADE (u) Max Res: 12.2103
+CASCADE (u) Ave Res: 0.587088
+NDL Max Res: 69.9096
+NDL Ave Res: 4.80712
+Photo Max Res: 79.8954
+Photo Ave Res: 3.82695
+
+28-65
+CASCADE Max Res: 82.0896
+CASCADE Ave Res: 1.12783
+CASCADE (u) Max Res: 82.0896
+CASCADE (u) Ave Res: 1.11746
+NDL Max Res: 17.0374
+NDL Ave Res: 0.648395
+Photo Max Res: 97.7024
+Photo Ave Res: 9.98861
+
+29-64
+CASCADE Max Res: 14.464
+CASCADE Ave Res: 1.08302
+CASCADE (u) Max Res: 12.6819
+CASCADE (u) Ave Res: 0.958485
+NDL Max Res: 100
+NDL Ave Res: 5.76624
+Photo Max Res: 99.6072
+Photo Ave Res: 6.21332
+
+29-66
+CASCADE Max Res: 20.5589
+CASCADE Ave Res: 1.10924
+CASCADE (u) Max Res: 19.0003
+CASCADE (u) Ave Res: 1.06562
+NDL Max Res: 71.0608
+NDL Ave Res: 4.46499
+Photo Max Res: 63.6449
+Photo Ave Res: 4.37422
+
+30-65
+CASCADE Max Res: 100
+CASCADE Ave Res: 3.2363
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 3.0085
+NDL Max Res: 100
+NDL Ave Res: 5.41444
+Photo Max Res: 100
+Photo Ave Res: 6.56301
+
+30-68
+CASCADE Max Res: 46.263
+CASCADE Ave Res: 2.40831
+CASCADE (u) Max Res: 13.4954
+CASCADE (u) Ave Res: 1.74986
+NDL Max Res: 58.5751
+NDL Ave Res: 2.56816
+Photo Max Res: 100
+Photo Ave Res: 8.35804
+
+30-69
+CASCADE Max Res: 34.8936
+CASCADE Ave Res: 1.9885
+CASCADE (u) Max Res: 30.9138
+CASCADE (u) Ave Res: 1.97102
+NDL Max Res: 88.4652
+NDL Ave Res: 7.91263
+Photo Max Res: 85.1002
+Photo Ave Res: 9.32701
+
+31-70
+CASCADE Max Res: 98.8903
+CASCADE Ave Res: 5.84283
+CASCADE (u) Max Res: 59.7474
+CASCADE (u) Ave Res: 4.15578
+NDL Max Res: 95.5611
+NDL Ave Res: 5.38892
+Photo Max Res: 96.7453
+Photo Ave Res: 5.25264
+
+31-72
+CASCADE Max Res: 39.3413
+CASCADE Ave Res: 1.7552
+CASCADE (u) Max Res: 15.4462
+CASCADE (u) Ave Res: 1.41555
+NDL Max Res: 96.8411
+NDL Ave Res: 3.50509
+Photo Max Res: 88.5
+Photo Ave Res: 3.35225
+
+32-71
+CASCADE Max Res: 62.9439
+CASCADE Ave Res: 8.91771
+CASCADE (u) Max Res: 49.1625
+CASCADE (u) Ave Res: 5.9645
+NDL Max Res: 90.8999
+NDL Ave Res: 6.64525
+Photo Max Res: 53.128
+Photo Ave Res: 8.18848
+
+32-73
+CASCADE Max Res: 96.225
+CASCADE Ave Res: 5.86325
+CASCADE (u) Max Res: 73.7836
+CASCADE (u) Ave Res: 5.57689
+NDL Max Res: 73.7836
+NDL Ave Res: 6.18988
+Photo Max Res: 73.7836
+Photo Ave Res: 6.44238
+
+32-74
+CASCADE Max Res: 9.99916
+CASCADE Ave Res: 1.41006
+CASCADE (u) Max Res: 22.72
+CASCADE (u) Ave Res: 1.31678
+NDL Max Res: 65.6253
+NDL Ave Res: 3.12439
+Photo Max Res: 33.6168
+Photo Ave Res: 2.79046
+
+32-75
+CASCADE Max Res: 34.4437
+CASCADE Ave Res: 3.15479
+CASCADE (u) Max Res: 36.4059
+CASCADE (u) Ave Res: 3.09893
+NDL Max Res: 90.4459
+NDL Ave Res: 5.38265
+Photo Max Res: 30.2709
+Photo Ave Res: 2.57393
+
+32-77
+CASCADE Max Res: 75.8462
+CASCADE Ave Res: 2.35265
+CASCADE (u) Max Res: 75.8462
+CASCADE (u) Ave Res: 1.89611
+NDL Max Res: 79.4534
+NDL Ave Res: 4.13229
+Photo Max Res: 75.8462
+Photo Ave Res: 3.30958
+
+33-76
+CASCADE Max Res: 91.7026
+CASCADE Ave Res: 9.43997
+CASCADE (u) Max Res: 88.4142
+CASCADE (u) Ave Res: 9.19266
+NDL Max Res: 99.4654
+NDL Ave Res: 11.5555
+Photo Max Res: 99.8412
+Photo Ave Res: 12.512
+
+34-76
+CASCADE Max Res: 75.2016
+CASCADE Ave Res: 7.28526
+CASCADE (u) Max Res: 77.5411
+CASCADE (u) Ave Res: 6.4056
+NDL Max Res: 93.4449
+NDL Ave Res: 8.7837
+Photo Max Res: 93.472
+Photo Ave Res: 8.2664
+
+34-77
+CASCADE Max Res: 93.2925
+CASCADE Ave Res: 3.84042
+CASCADE (u) Max Res: 78.9864
+CASCADE (u) Ave Res: 5.08013
+NDL Max Res: 61.6592
+NDL Ave Res: 3.86361
+Photo Max Res: 9.32856
+Photo Ave Res: 2.05729
+
+34-78
+CASCADE Max Res: 34.8949
+CASCADE Ave Res: 1.63162
+CASCADE (u) Max Res: 4.36555
+CASCADE (u) Ave Res: 0.939364
+NDL Max Res: 52.8444
+NDL Ave Res: 2.65035
+Photo Max Res: 50.4186
+Photo Ave Res: 2.12321
+
+34-81
+CASCADE Max Res: 26.338
+CASCADE Ave Res: 1.31296
+CASCADE (u) Max Res: 12.0585
+CASCADE (u) Ave Res: 0.904102
+NDL Max Res: 73.0364
+NDL Ave Res: 5.68105
+Photo Max Res: 95.5975
+Photo Ave Res: 6.82193
+
+35-80
+CASCADE Max Res: 98.6776
+CASCADE Ave Res: 6.55987
+CASCADE (u) Max Res: 26.8521
+CASCADE (u) Ave Res: 2.21932
+NDL Max Res: 53.4824
+NDL Ave Res: 2.93016
+Photo Max Res: 41.1412
+Photo Ave Res: 3.53605
+
+35-82
+CASCADE Max Res: 77.7979
+CASCADE Ave Res: 7.25422
+CASCADE (u) Max Res: 86.7536
+CASCADE (u) Ave Res: 4.89085
+NDL Max Res: 45.9925
+NDL Ave Res: 5.47989
+Photo Max Res: 95.8071
+Photo Ave Res: 8.10283
+
+36-84
+CASCADE Max Res: 28.1583
+CASCADE Ave Res: 2.53485
+CASCADE (u) Max Res: 65.4603
+CASCADE (u) Ave Res: 4.43221
+NDL Max Res: 60.2016
+NDL Ave Res: 2.36649
+Photo Max Res: 66.6174
+Photo Ave Res: 5.27308
+
+36-87
+CASCADE Max Res: 70.7865
+CASCADE Ave Res: 4.85455
+CASCADE (u) Max Res: 65.1685
+CASCADE (u) Ave Res: 4.85369
+NDL Max Res: 88.7454
+NDL Ave Res: 8.69076
+Photo Max Res: 67.2886
+Photo Ave Res: 6.97912
+
+37-86
+CASCADE Max Res: 91.667
+CASCADE Ave Res: 5.42913
+CASCADE (u) Max Res: 76.2351
+CASCADE (u) Ave Res: 4.97072
+NDL Max Res: 87.3751
+NDL Ave Res: 5.56604
+Photo Max Res: 82.9671
+Photo Ave Res: 5.8599
+
+3-7
+CASCADE Max Res: 0.905376
+CASCADE Ave Res: 0.0181075
+CASCADE (u) Max Res: 0.905376
+CASCADE (u) Ave Res: 0.0181075
+NDL Max Res: 34.8024
+NDL Ave Res: 0.684676
+Photo Max Res: 91.482
+Photo Ave Res: 2.67204
+
+38-87
+CASCADE Max Res: 18.6631
+CASCADE Ave Res: 1.70376
+CASCADE (u) Max Res: 18.7348
+CASCADE (u) Ave Res: 1.46809
+NDL Max Res: 60.3116
+NDL Ave Res: 5.05497
+Photo Max Res: 67.5655
+Photo Ave Res: 4.50934
+
+38-88
+CASCADE Max Res: 21.8212
+CASCADE Ave Res: 1.35188
+CASCADE (u) Max Res: 13.036
+CASCADE (u) Ave Res: 1.38945
+NDL Max Res: 60.2229
+NDL Ave Res: 2.78007
+Photo Max Res: NOT AVAILABLE
+Photo Ave Res: NOT AVAILABLE
+
+38-89
+CASCADE Max Res: 70.3589
+CASCADE Ave Res: 5.43379
+CASCADE (u) Max Res: 46.7638
+CASCADE (u) Ave Res: 3.39999
+NDL Max Res: 77.9577
+NDL Ave Res: 5.26603
+Photo Max Res: 64.9982
+Photo Ave Res: 5.59956
+
+3-8
+CASCADE Max Res: 0.634467
+CASCADE Ave Res: 0.0126893
+CASCADE (u) Max Res: 0.634467
+CASCADE (u) Ave Res: 0.0126893
+NDL Max Res: 6.99745
+NDL Ave Res: 0.13719
+Photo Max Res: 11.8568
+Photo Ave Res: 0.237136
+
+39-90
+CASCADE Max Res: 12.0547
+CASCADE Ave Res: 0.611056
+CASCADE (u) Max Res: 13.3972
+CASCADE (u) Ave Res: 0.680749
+NDL Max Res: 99.9614
+NDL Ave Res: 5.94815
+Photo Max Res: 99.1124
+Photo Ave Res: 9.08342
+
+40-91
+CASCADE Max Res: 92.3988
+CASCADE Ave Res: 5.42361
+CASCADE (u) Max Res: 67.3959
+CASCADE (u) Ave Res: 5.92685
+NDL Max Res: 100
+NDL Ave Res: 8.55433
+Photo Max Res: 80.197
+Photo Ave Res: 5.27746
+
+40-92
+CASCADE Max Res: 45.8358
+CASCADE Ave Res: 1.4481
+CASCADE (u) Max Res: 21.8351
+CASCADE (u) Ave Res: 1.61935
+NDL Max Res: 51.3818
+NDL Ave Res: 2.74909
+Photo Max Res: 46.5634
+Photo Ave Res: 1.46422
+
+40-93
+CASCADE Max Res: 64.5189
+CASCADE Ave Res: 4.58292
+CASCADE (u) Max Res: 44.8529
+CASCADE (u) Ave Res: 3.45326
+NDL Max Res: 61.4751
+NDL Ave Res: 5.18076
+Photo Max Res: 100
+Photo Ave Res: 8.36204
+
+4-10
+CASCADE Max Res: 0.575454
+CASCADE Ave Res: 0.0157278
+CASCADE (u) Max Res: 0.575454
+CASCADE (u) Ave Res: 0.0157278
+NDL Max Res: 24.1534
+NDL Ave Res: 0.696547
+Photo Max Res: 98.9928
+Photo Ave Res: 3.03353
+
+42-93
+CASCADE Max Res: 26.3948
+CASCADE Ave Res: 0.639674
+CASCADE (u) Max Res: 26.3948
+CASCADE (u) Ave Res: 0.639674
+NDL Max Res: 100
+NDL Ave Res: 8.45904
+Photo Max Res: 100
+Photo Ave Res: 5.07447
+
+42-96
+CASCADE Max Res: 50.1389
+CASCADE Ave Res: 1.67741
+CASCADE (u) Max Res: 63.2052
+CASCADE (u) Ave Res: 1.9058
+NDL Max Res: 48.7312
+NDL Ave Res: 2.668
+Photo Max Res: 64.7302
+Photo Ave Res: 2.41123
+
+42-97
+CASCADE Max Res: 98.5537
+CASCADE Ave Res: 8.87484
+CASCADE (u) Max Res: 97.5206
+CASCADE (u) Ave Res: 11.0672
+NDL Max Res: 100
+NDL Ave Res: 5.73087
+Photo Max Res: 98.7752
+Photo Ave Res: 7.52876
+
+42-98
+CASCADE Max Res: 23.6897
+CASCADE Ave Res: 1.3657
+CASCADE (u) Max Res: 16.1535
+CASCADE (u) Ave Res: 1.22387
+NDL Max Res: 50.019
+NDL Ave Res: 2.6059
+Photo Max Res: 53.9109
+Photo Ave Res: 2.32076
+
+42-99
+CASCADE Max Res: 100
+CASCADE Ave Res: 3.98561
+CASCADE (u) Max Res: 32.9834
+CASCADE (u) Ave Res: 3.46341
+NDL Max Res: 39.537
+NDL Ave Res: 3.01953
+Photo Max Res: 94.8891
+Photo Ave Res: 4.78577
+
+43-100
+CASCADE Max Res: 82.6369
+CASCADE Ave Res: 3.09848
+CASCADE (u) Max Res: 80.4771
+CASCADE (u) Ave Res: 2.74285
+NDL Max Res: 80.4771
+NDL Ave Res: 2.61444
+Photo Max Res: 77.1419
+Photo Ave Res: 3.79507
+
+44-100
+CASCADE Max Res: 72.1524
+CASCADE Ave Res: 3.77112
+CASCADE (u) Max Res: 92.607
+CASCADE (u) Ave Res: 3.71991
+NDL Max Res: 51.9273
+NDL Ave Res: 2.75956
+Photo Max Res: 98.7843
+Photo Ave Res: 4.66488
+
+44-102
+CASCADE Max Res: 61.9985
+CASCADE Ave Res: 2.79185
+CASCADE (u) Max Res: 49.0981
+CASCADE (u) Ave Res: 2.64151
+NDL Max Res: 44.3544
+NDL Ave Res: 3.00915
+Photo Max Res: 35.3725
+Photo Ave Res: 2.34388
+
+44-103
+CASCADE Max Res: 68.0416
+CASCADE Ave Res: 5.6739
+CASCADE (u) Max Res: 66.1696
+CASCADE (u) Ave Res: 3.3476
+NDL Max Res: 100
+NDL Ave Res: 4.94938
+Photo Max Res: 77.8712
+Photo Ave Res: 5.3687
+
+46-106
+CASCADE Max Res: 21.2654
+CASCADE Ave Res: 2.20641
+CASCADE (u) Max Res: 21.0984
+CASCADE (u) Ave Res: 2.16229
+NDL Max Res: 57.2433
+NDL Ave Res: 4.14135
+Photo Max Res: 71.974
+Photo Ave Res: 1.83395
+
+46-109
+CASCADE Max Res: 82.5029
+CASCADE Ave Res: 2.92743
+CASCADE (u) Max Res: 31.9943
+CASCADE (u) Ave Res: 3.09283
+NDL Max Res: 33.7487
+NDL Ave Res: 3.97011
+Photo Max Res: 97.152
+Photo Ave Res: 5.5264
+
+47-110
+CASCADE Max Res: 49.1921
+CASCADE Ave Res: 1.23737
+CASCADE (u) Max Res: 49.1921
+CASCADE (u) Ave Res: 1.23737
+NDL Max Res: 75.2195
+NDL Ave Res: 5.44114
+Photo Max Res: 73.5958
+Photo Ave Res: 2.2624
+
+48-114
+CASCADE Max Res: 68.9341
+CASCADE Ave Res: 2.3236
+CASCADE (u) Max Res: 56.7463
+CASCADE (u) Ave Res: 2.23469
+NDL Max Res: 73.1371
+NDL Ave Res: 2.27655
+Photo Max Res: 89.2226
+Photo Ave Res: 2.51611
+
+49-114
+CASCADE Max Res: 83.4484
+CASCADE Ave Res: 2.41628
+CASCADE (u) Max Res: 83.4484
+CASCADE (u) Ave Res: 2.68453
+NDL Max Res: 83.4484
+NDL Ave Res: 4.57594
+Photo Max Res: 95.507
+Photo Ave Res: 4.27721
+
+49-116
+CASCADE Max Res: 95.0109
+CASCADE Ave Res: 3.16943
+CASCADE (u) Max Res: 45.9192
+CASCADE (u) Ave Res: 2.7704
+NDL Max Res: 46.8537
+NDL Ave Res: 3.40649
+Photo Max Res: 98.4812
+Photo Ave Res: 2.47501
+
+50-116
+CASCADE Max Res: 14.7428
+CASCADE Ave Res: 1.97082
+CASCADE (u) Max Res: 14.3465
+CASCADE (u) Ave Res: 1.99501
+NDL Max Res: 88.1198
+NDL Ave Res: 3.64025
+Photo Max Res: 81.411
+Photo Ave Res: 4.41441
+
+51-124
+CASCADE Max Res: 73.652
+CASCADE Ave Res: 3.07186
+CASCADE (u) Max Res: 66.658
+CASCADE (u) Ave Res: 2.88214
+NDL Max Res: 55.8037
+NDL Ave Res: 3.88228
+Photo Max Res: 40.4007
+Photo Ave Res: 4.10514
+
+5-11
+CASCADE Max Res: 4.52219
+CASCADE Ave Res: 0.136018
+CASCADE (u) Max Res: 4.52219
+CASCADE (u) Ave Res: 0.136018
+NDL Max Res: 3.71452
+NDL Ave Res: 0.239959
+Photo Max Res: 95.4778
+Photo Ave Res: 4.31999
+
+5-12
+CASCADE Max Res: 0.181439
+CASCADE Ave Res: 0.00362878
+CASCADE (u) Max Res: 0.936806
+CASCADE (u) Ave Res: 0.0187361
+NDL Max Res: 10.9006
+NDL Ave Res: 0.226145
+Photo Max Res: 100
+Photo Ave Res: 2.58027
+
+52-123
+CASCADE Max Res: 48.3418
+CASCADE Ave Res: 3.44343
+CASCADE (u) Max Res: 55.1709
+CASCADE (u) Ave Res: 3.13601
+NDL Max Res: 42.1131
+NDL Ave Res: 4.07765
+Photo Max Res: 100
+Photo Ave Res: 6.20346
+
+52-124
+CASCADE Max Res: 25.5959
+CASCADE Ave Res: 2.08345
+CASCADE (u) Max Res: 11.2146
+CASCADE (u) Ave Res: 1.97238
+NDL Max Res: 68.1778
+NDL Ave Res: 3.12285
+Photo Max Res: 56.585
+Photo Ave Res: 2.67245
+
+52-125
+CASCADE Max Res: 87.5735
+CASCADE Ave Res: 5.10985
+CASCADE (u) Max Res: 55.4719
+CASCADE (u) Ave Res: 4.98145
+NDL Max Res: 100
+NDL Ave Res: 5.70282
+Photo Max Res: 79.656
+Photo Ave Res: 6.10792
+
+52-126
+CASCADE Max Res: 56.4871
+CASCADE Ave Res: 2.35329
+CASCADE (u) Max Res: 14.7602
+CASCADE (u) Ave Res: 1.42234
+NDL Max Res: 52.6974
+NDL Ave Res: 2.63185
+Photo Max Res: 32.6399
+Photo Ave Res: 2.20653
+
+52-129
+CASCADE Max Res: 23.9777
+CASCADE Ave Res: 2.10135
+CASCADE (u) Max Res: 12.7149
+CASCADE (u) Ave Res: 1.02438
+NDL Max Res: 66.2342
+NDL Ave Res: 7.07136
+Photo Max Res: 18.6647
+Photo Ave Res: 1.41056
+
+52-131
+CASCADE Max Res: 12.0439
+CASCADE Ave Res: 0.876548
+CASCADE (u) Max Res: 8.99102
+CASCADE (u) Ave Res: 0.826726
+NDL Max Res: 84.4021
+NDL Ave Res: 6.72558
+Photo Max Res: 74.6982
+Photo Ave Res: 8.06312
+
+53-130
+CASCADE Max Res: 82.3047
+CASCADE Ave Res: 3.56759
+CASCADE (u) Max Res: 82.4937
+CASCADE (u) Ave Res: 3.55686
+NDL Max Res: 100
+NDL Ave Res: 4.89008
+Photo Max Res: 99.9193
+Photo Ave Res: 7.70897
+
+54-130
+CASCADE Max Res: 46.5571
+CASCADE Ave Res: 1.69753
+CASCADE (u) Max Res: 39.9386
+CASCADE (u) Ave Res: 3.14286
+NDL Max Res: 39.1242
+NDL Ave Res: 2.62388
+Photo Max Res: 100
+Photo Ave Res: 4.88716
+
+54-132
+CASCADE Max Res: 33.9931
+CASCADE Ave Res: 1.53447
+CASCADE (u) Max Res: 39.2565
+CASCADE (u) Ave Res: 1.92395
+NDL Max Res: 44.6541
+NDL Ave Res: 2.62022
+Photo Max Res: 62.9956
+Photo Ave Res: 1.96513
+
+54-137
+CASCADE Max Res: 17.0179
+CASCADE Ave Res: 0.509133
+CASCADE (u) Max Res: 16.0154
+CASCADE (u) Ave Res: 0.57542
+NDL Max Res: 52.0127
+NDL Ave Res: 3.05687
+Photo Max Res: 100
+Photo Ave Res: 7.38642
+
+56-135
+CASCADE Max Res: 46.8835
+CASCADE Ave Res: 3.24791
+CASCADE (u) Max Res: 33.9561
+CASCADE (u) Ave Res: 2.3229
+NDL Max Res: 73.4793
+NDL Ave Res: 4.66861
+Photo Max Res: 66.3147
+Photo Ave Res: 4.81827
+
+56-136
+CASCADE Max Res: 42.43
+CASCADE Ave Res: 3.46694
+CASCADE (u) Max Res: 99.256
+CASCADE (u) Ave Res: 6.35373
+NDL Max Res: 76.3883
+NDL Ave Res: 4.00423
+Photo Max Res: 99.256
+Photo Ave Res: 4.85115
+
+56-137
+CASCADE Max Res: 4.48205
+CASCADE Ave Res: 0.53075
+CASCADE (u) Max Res: 5.26043
+CASCADE (u) Ave Res: 0.393083
+NDL Max Res: 75
+NDL Ave Res: 5.27759
+Photo Max Res: 72.4118
+Photo Ave Res: 6.14974
+
+56-138
+CASCADE Max Res: 33.8536
+CASCADE Ave Res: 1.87102
+CASCADE (u) Max Res: 7.82966
+CASCADE (u) Ave Res: 1.01604
+NDL Max Res: 77.6919
+NDL Ave Res: 3.91638
+Photo Max Res: 27.5571
+Photo Ave Res: 3.43108
+
+56-139
+CASCADE Max Res: 10.1047
+CASCADE Ave Res: 0.655135
+CASCADE (u) Max Res: 6.7011
+CASCADE (u) Ave Res: 0.455948
+NDL Max Res: 67.9777
+NDL Ave Res: 3.9607
+Photo Max Res: 48.8852
+Photo Ave Res: 5.59298
+
+58-137
+CASCADE Max Res: 100
+CASCADE Ave Res: 6.00469
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 3.02657
+NDL Max Res: 68.2843
+NDL Ave Res: 6.15904
+Photo Max Res: 100
+Photo Ave Res: 3.37253
+
+58-141
+CASCADE Max Res: 5.07733
+CASCADE Ave Res: 0.240007
+CASCADE (u) Max Res: 5.7194
+CASCADE (u) Ave Res: 0.297248
+NDL Max Res: 63.2492
+NDL Ave Res: 3.7013
+Photo Max Res: 61.6824
+Photo Ave Res: 5.01901
+
+58-143
+CASCADE Max Res: 63.9615
+CASCADE Ave Res: 1.72428
+CASCADE (u) Max Res: 6.98335
+CASCADE (u) Ave Res: 0.404033
+NDL Max Res: 100
+NDL Ave Res: 4.64925
+Photo Max Res: 99.6
+Photo Ave Res: 5.95693
+
+59-142
+CASCADE Max Res: 86.2592
+CASCADE Ave Res: 6.10338
+CASCADE (u) Max Res: 73.002
+CASCADE (u) Ave Res: 5.02038
+NDL Max Res: 73.002
+NDL Ave Res: 5.36451
+Photo Max Res: 73.7576
+Photo Ave Res: 6.10927
+
+60-143
+CASCADE Max Res: 37.452
+CASCADE Ave Res: 1.79153
+CASCADE (u) Max Res: 23.945
+CASCADE (u) Ave Res: 1.53863
+NDL Max Res: 72.5783
+NDL Ave Res: 2.88604
+Photo Max Res: 97.3102
+Photo Ave Res: 7.9623
+
+60-145
+CASCADE Max Res: 100
+CASCADE Ave Res: 5.01508
+CASCADE (u) Max Res: 82.3622
+CASCADE (u) Ave Res: 5.90298
+NDL Max Res: 100
+NDL Ave Res: 5.94698
+Photo Max Res: 100
+Photo Ave Res: 7.66973
+
+60-146
+CASCADE Max Res: 71.6026
+CASCADE Ave Res: 4.5055
+CASCADE (u) Max Res: 71.9973
+CASCADE (u) Ave Res: 4.5903
+NDL Max Res: 100
+NDL Ave Res: 8.06089
+Photo Max Res: 99.8677
+Photo Ave Res: 8.68561
+
+60-147
+CASCADE Max Res: 87.4392
+CASCADE Ave Res: 5.44349
+CASCADE (u) Max Res: 71.3866
+CASCADE (u) Ave Res: 2.94023
+NDL Max Res: 81.1064
+NDL Ave Res: 4.20246
+Photo Max Res: 71.3866
+Photo Ave Res: 4.86572
+
+60-149
+CASCADE Max Res: 64.2347
+CASCADE Ave Res: 3.18472
+CASCADE (u) Max Res: 25.1609
+CASCADE (u) Ave Res: 1.73197
+NDL Max Res: 37.3769
+NDL Ave Res: 2.78737
+Photo Max Res: 55.9839
+Photo Ave Res: 3.03507
+
+60-151
+CASCADE Max Res: 84.7149
+CASCADE Ave Res: 5.42043
+CASCADE (u) Max Res: 81.8446
+CASCADE (u) Ave Res: 4.13354
+NDL Max Res: 70.7423
+NDL Ave Res: 5.05898
+Photo Max Res: 79.6539
+Photo Ave Res: 6.29668
+
+6-13
+CASCADE Max Res: 0.202893
+CASCADE Ave Res: 0.00718157
+CASCADE (u) Max Res: 0.202893
+CASCADE (u) Ave Res: 0.00718157
+NDL Max Res: 27.0787
+NDL Ave Res: 0.545223
+Photo Max Res: 10.3465
+Photo Ave Res: 0.240415
+
+6-14
+CASCADE Max Res: 1.21189
+CASCADE Ave Res: 0.0331215
+CASCADE (u) Max Res: 1.33308
+CASCADE (u) Ave Res: 0.0307999
+NDL Max Res: 31.3525
+NDL Ave Res: 1.48455
+Photo Max Res: 58.8406
+Photo Ave Res: 1.31951
+
+62-148
+CASCADE Max Res: 81.0441
+CASCADE Ave Res: 2.81678
+CASCADE (u) Max Res: 22.0281
+CASCADE (u) Ave Res: 2.17443
+NDL Max Res: 58.8743
+NDL Ave Res: 3.58059
+Photo Max Res: 85.5553
+Photo Ave Res: 2.32937
+
+62-150
+CASCADE Max Res: 71.3946
+CASCADE Ave Res: 2.30895
+CASCADE (u) Max Res: 76.6785
+CASCADE (u) Ave Res: 2.60271
+NDL Max Res: 61.3809
+NDL Ave Res: 3.33055
+Photo Max Res: 76.6785
+Photo Ave Res: 2.67285
+
+62-151
+CASCADE Max Res: 63.8123
+CASCADE Ave Res: 2.66446
+CASCADE (u) Max Res: 63.8123
+CASCADE (u) Ave Res: 1.67891
+NDL Max Res: 68.7739
+NDL Ave Res: 4.72913
+Photo Max Res: 84.8494
+Photo Ave Res: 5.68621
+
+63-153
+CASCADE Max Res: 59.9707
+CASCADE Ave Res: 2.79415
+CASCADE (u) Max Res: 32.3487
+CASCADE (u) Ave Res: 3.13593
+NDL Max Res: 88.2982
+NDL Ave Res: 6.85542
+Photo Max Res: 94.2691
+Photo Ave Res: 5.17389
+
+63-154
+CASCADE Max Res: 31.9357
+CASCADE Ave Res: 0.977952
+CASCADE (u) Max Res: 18.1108
+CASCADE (u) Ave Res: 1.1245
+NDL Max Res: 22.5332
+NDL Ave Res: 2.75442
+Photo Max Res: 98.7358
+Photo Ave Res: 2.52184
+
+64-153
+CASCADE Max Res: 44.743
+CASCADE Ave Res: 4.4827
+CASCADE (u) Max Res: 48.78
+CASCADE (u) Ave Res: 3.95048
+NDL Max Res: 43.4823
+NDL Ave Res: 5.35366
+Photo Max Res: 93.3954
+Photo Ave Res: 4.9475
+
+64-154
+CASCADE Max Res: 99.1756
+CASCADE Ave Res: 5.0883
+CASCADE (u) Max Res: 95.4728
+CASCADE (u) Ave Res: 6.74452
+NDL Max Res: 31.6733
+NDL Ave Res: 2.96687
+Photo Max Res: 91.885
+Photo Ave Res: 6.19632
+
+64-156
+CASCADE Max Res: 90.6891
+CASCADE Ave Res: 6.66244
+CASCADE (u) Max Res: 91.1913
+CASCADE (u) Ave Res: 6.9482
+NDL Max Res: 55.6132
+NDL Ave Res: 4.46338
+Photo Max Res: 91.1913
+Photo Ave Res: 7.75241
+
+64-157
+CASCADE Max Res: 40.7215
+CASCADE Ave Res: 2.20983
+CASCADE (u) Max Res: 44.8202
+CASCADE (u) Ave Res: 2.83266
+NDL Max Res: 94.3614
+NDL Ave Res: 5.46597
+Photo Max Res: 100
+Photo Ave Res: 7.79239
+
+64-158
+CASCADE Max Res: 82.2531
+CASCADE Ave Res: 5.84183
+CASCADE (u) Max Res: 67.8539
+CASCADE (u) Ave Res: 4.63732
+NDL Max Res: 66.6713
+NDL Ave Res: 5.33861
+Photo Max Res: 97.1713
+Photo Ave Res: 5.42606
+
+64-159
+CASCADE Max Res: 87.0234
+CASCADE Ave Res: 4.74617
+CASCADE (u) Max Res: 74.3881
+CASCADE (u) Ave Res: 4.94416
+NDL Max Res: 95.7604
+NDL Ave Res: 5.47136
+Photo Max Res: 100
+Photo Ave Res: 5.71984
+
+64-161
+CASCADE Max Res: 88.0456
+CASCADE Ave Res: 5.72859
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 5.70177
+NDL Max Res: 99.8711
+NDL Ave Res: 7.25466
+Photo Max Res: 99.8909
+Photo Ave Res: 6.77549
+
+65-160
+CASCADE Max Res: 33.412
+CASCADE Ave Res: 1.97635
+CASCADE (u) Max Res: 30.865
+CASCADE (u) Ave Res: 2.01085
+NDL Max Res: 35.1271
+NDL Ave Res: 3.24229
+Photo Max Res: 99.515
+Photo Ave Res: 2.06104
+
+66-161
+CASCADE Max Res: 47.5093
+CASCADE Ave Res: 4.52329
+CASCADE (u) Max Res: 58.1566
+CASCADE (u) Ave Res: 4.86763
+NDL Max Res: 79.222
+NDL Ave Res: 6.00116
+Photo Max Res: 83.3608
+Photo Ave Res: 6.92528
+
+66-162
+CASCADE Max Res: 89.0719
+CASCADE Ave Res: 6.19287
+CASCADE (u) Max Res: 94.1668
+CASCADE (u) Ave Res: 5.54195
+NDL Max Res: 81.598
+NDL Ave Res: 4.96165
+Photo Max Res: 91.7928
+Photo Ave Res: 6.3584
+
+66-164
+CASCADE Max Res: 90.0969
+CASCADE Ave Res: 3.81906
+CASCADE (u) Max Res: 89.3595
+CASCADE (u) Ave Res: 7.31636
+NDL Max Res: 81.1482
+NDL Ave Res: 5.39109
+Photo Max Res: 100
+Photo Ave Res: 6.16739
+
+66-165
+CASCADE Max Res: 84.003
+CASCADE Ave Res: 5.45923
+CASCADE (u) Max Res: 75.0181
+CASCADE (u) Ave Res: 4.13167
+NDL Max Res: 84.7815
+NDL Ave Res: 5.54699
+Photo Max Res: 92.4284
+Photo Ave Res: 5.88267
+
+66-166
+CASCADE Max Res: 88.8363
+CASCADE Ave Res: 2.87201
+CASCADE (u) Max Res: 88.8363
+CASCADE (u) Ave Res: 2.87201
+NDL Max Res: 88.8363
+NDL Ave Res: 4.51075
+Photo Max Res: 100
+Photo Ave Res: 5.41954
+
+68-168
+CASCADE Max Res: 75.5286
+CASCADE Ave Res: 3.45066
+CASCADE (u) Max Res: 75.5286
+CASCADE (u) Ave Res: 4.51853
+NDL Max Res: 75.5286
+NDL Ave Res: 3.667
+Photo Max Res: 100
+Photo Ave Res: 3.38532
+
+68-169
+CASCADE Max Res: 76.9288
+CASCADE Ave Res: 4.99831
+CASCADE (u) Max Res: 76.9288
+CASCADE (u) Ave Res: 4.99831
+NDL Max Res: 92.5522
+NDL Ave Res: 7.11384
+Photo Max Res: 81.5582
+Photo Ave Res: 6.92567
+
+68-171
+CASCADE Max Res: 83.8929
+CASCADE Ave Res: 3.68135
+CASCADE (u) Max Res: 89.7801
+CASCADE (u) Ave Res: 7.17864
+NDL Max Res: 100
+NDL Ave Res: 4.4113
+Photo Max Res: 91.3905
+Photo Ave Res: 4.3561
+
+69-171
+CASCADE Max Res: 73.973
+CASCADE Ave Res: 4.39798
+CASCADE (u) Max Res: 84.7143
+CASCADE (u) Ave Res: 4.19167
+NDL Max Res: 98.8247
+NDL Ave Res: 6.61475
+Photo Max Res: 100
+Photo Ave Res: 5.32587
+
+70-169
+CASCADE Max Res: 90.0114
+CASCADE Ave Res: 6.41944
+CASCADE (u) Max Res: 51.9794
+CASCADE (u) Ave Res: 4.28599
+NDL Max Res: 88.2004
+NDL Ave Res: 7.7239
+Photo Max Res: 76.7479
+Photo Ave Res: 6.26111
+
+70-171
+CASCADE Max Res: 87.2908
+CASCADE Ave Res: 4.85827
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 8.47953
+NDL Max Res: 100
+NDL Ave Res: 6.00246
+Photo Max Res: 100
+Photo Ave Res: 8.35268
+
+70-172
+CASCADE Max Res: 85.6308
+CASCADE Ave Res: 6.94489
+CASCADE (u) Max Res: 85.6308
+CASCADE (u) Ave Res: 8.70723
+NDL Max Res: 99.7662
+NDL Ave Res: 7.63538
+Photo Max Res: 99.0386
+Photo Ave Res: 9.92066
+
+70-173
+CASCADE Max Res: 56.6045
+CASCADE Ave Res: 3.46317
+CASCADE (u) Max Res: 43.5696
+CASCADE (u) Ave Res: 3.31227
+NDL Max Res: 88.5228
+NDL Ave Res: 4.90285
+Photo Max Res: 100
+Photo Ave Res: 4.29935
+
+70-174
+CASCADE Max Res: 84.8958
+CASCADE Ave Res: 7.91299
+CASCADE (u) Max Res: 85.0057
+CASCADE (u) Ave Res: 5.7179
+NDL Max Res: 71.0514
+NDL Ave Res: 6.43675
+Photo Max Res: 95.4591
+Photo Ave Res: 9.41794
+
+70-175
+CASCADE Max Res: 46.196
+CASCADE Ave Res: 2.53199
+CASCADE (u) Max Res: 45.8
+CASCADE (u) Ave Res: 2.47445
+NDL Max Res: 54.6918
+NDL Ave Res: 2.79626
+Photo Max Res: 57.5536
+Photo Ave Res: 4.27784
+
+70-177
+CASCADE Max Res: 91.97
+CASCADE Ave Res: 4.36645
+CASCADE (u) Max Res: 83.1646
+CASCADE (u) Ave Res: 4.5241
+NDL Max Res: 76.845
+NDL Ave Res: 5.96612
+Photo Max Res: 92.1673
+Photo Ave Res: 7.74367
+
+71-176
+CASCADE Max Res: 100
+CASCADE Ave Res: 4.27386
+CASCADE (u) Max Res: 65.3243
+CASCADE (u) Ave Res: 3.59023
+NDL Max Res: 63.9208
+NDL Ave Res: 3.17481
+Photo Max Res: 98.6067
+Photo Ave Res: 5.67339
+
+71-177
+CASCADE Max Res: 10.5161
+CASCADE Ave Res: 0.985223
+CASCADE (u) Max Res: 44.5342
+CASCADE (u) Ave Res: 2.87418
+NDL Max Res: 21.8905
+NDL Ave Res: 1.91452
+Photo Max Res: 100
+Photo Ave Res: 2.87083
+
+7-15
+CASCADE Max Res: 18.9919
+CASCADE Ave Res: 0.446687
+CASCADE (u) Max Res: 18.9881
+CASCADE (u) Ave Res: 0.446349
+NDL Max Res: 2.20052
+NDL Ave Res: 0.103552
+Photo Max Res: 15.8203
+Photo Ave Res: 0.639914
+
+72-175
+CASCADE Max Res: 53.9606
+CASCADE Ave Res: 1.80474
+CASCADE (u) Max Res: 49.5421
+CASCADE (u) Ave Res: 3.28084
+NDL Max Res: 98.2116
+NDL Ave Res: 5.79839
+Photo Max Res: 100
+Photo Ave Res: 3.76148
+
+72-178
+CASCADE Max Res: 83.826
+CASCADE Ave Res: 4.75266
+CASCADE (u) Max Res: 83.826
+CASCADE (u) Ave Res: 4.76174
+NDL Max Res: 99.2613
+NDL Ave Res: 7.3634
+Photo Max Res: 100
+Photo Ave Res: 12.7517
+
+72-179
+CASCADE Max Res: 89.164
+CASCADE Ave Res: 2.26811
+CASCADE (u) Max Res: 89.164
+CASCADE (u) Ave Res: 2.3624
+NDL Max Res: 89.164
+NDL Ave Res: 4.14273
+Photo Max Res: 95.1855
+Photo Ave Res: 6.47279
+
+72-180
+CASCADE Max Res: 97.0319
+CASCADE Ave Res: 9.59522
+CASCADE (u) Max Res: 98.0545
+CASCADE (u) Ave Res: 9.70035
+NDL Max Res: 99.5297
+NDL Ave Res: 11.4612
+Photo Max Res: 99.5561
+Photo Ave Res: 11.7715
+
+72-181
+CASCADE Max Res: 68.4074
+CASCADE Ave Res: 1.92406
+CASCADE (u) Max Res: 68.4074
+CASCADE (u) Ave Res: 1.75819
+NDL Max Res: 47.8148
+NDL Ave Res: 2.81082
+Photo Max Res: 99.9533
+Photo Ave Res: 4.45357
+
+73-182
+CASCADE Max Res: 49.3084
+CASCADE Ave Res: 2.50864
+CASCADE (u) Max Res: 41.2049
+CASCADE (u) Ave Res: 2.57355
+NDL Max Res: 45.0083
+NDL Ave Res: 4.90818
+Photo Max Res: 77.9551
+Photo Ave Res: 3.30785
+
+73-183
+CASCADE Max Res: 92.3731
+CASCADE Ave Res: 1.72406
+CASCADE (u) Max Res: 92.3731
+CASCADE (u) Ave Res: 1.72406
+NDL Max Res: 72.8661
+NDL Ave Res: 5.44284
+Photo Max Res: 100
+Photo Ave Res: 4.19628
+
+74-183
+CASCADE Max Res: 41.9315
+CASCADE Ave Res: 2.93766
+CASCADE (u) Max Res: 41.9315
+CASCADE (u) Ave Res: 2.93766
+NDL Max Res: 97.1073
+NDL Ave Res: 5.02692
+Photo Max Res: 99.9837
+Photo Ave Res: 7.19034
+
+74-184
+CASCADE Max Res: 99.1742
+CASCADE Ave Res: 10.2806
+CASCADE (u) Max Res: 99.1742
+CASCADE (u) Ave Res: 10.2806
+NDL Max Res: 84.761
+NDL Ave Res: 9.47352
+Photo Max Res: 100
+Photo Ave Res: 13.3407
+
+74-185
+CASCADE Max Res: 62.123
+CASCADE Ave Res: 4.44291
+CASCADE (u) Max Res: 62.123
+CASCADE (u) Ave Res: 4.44291
+NDL Max Res: 100
+NDL Ave Res: 7.44006
+Photo Max Res: 100
+Photo Ave Res: 8.49341
+
+75-186
+CASCADE Max Res: 87.6262
+CASCADE Ave Res: 3.34087
+CASCADE (u) Max Res: 68.6401
+CASCADE (u) Ave Res: 1.91702
+NDL Max Res: 89.2249
+NDL Ave Res: 3.79721
+Photo Max Res: 98.8041
+Photo Ave Res: 4.70331
+
+75-188
+CASCADE Max Res: 73.9857
+CASCADE Ave Res: 2.75812
+CASCADE (u) Max Res: 71.5335
+CASCADE (u) Ave Res: 2.72151
+NDL Max Res: 53.2619
+NDL Ave Res: 2.95535
+Photo Max Res: 100
+Photo Ave Res: 2.21419
+
+76-185
+CASCADE Max Res: 97.2742
+CASCADE Ave Res: 4.55954
+CASCADE (u) Max Res: 86.6794
+CASCADE (u) Ave Res: 3.61069
+NDL Max Res: 100
+NDL Ave Res: 6.07404
+Photo Max Res: 68.4932
+Photo Ave Res: 3.79263
+
+76-188
+CASCADE Max Res: 68.2666
+CASCADE Ave Res: 4.35564
+CASCADE (u) Max Res: 23.0939
+CASCADE (u) Ave Res: 5.06837
+NDL Max Res: 40.6731
+NDL Ave Res: 2.92694
+Photo Max Res: 98.2526
+Photo Ave Res: 4.9297
+
+76-189
+CASCADE Max Res: 64.9258
+CASCADE Ave Res: 3.35109
+CASCADE (u) Max Res: 68.0136
+CASCADE (u) Ave Res: 3.30612
+NDL Max Res: 91.1602
+NDL Ave Res: 5.09519
+Photo Max Res: 100
+Photo Ave Res: 4.41913
+
+76-190
+CASCADE Max Res: 46.9747
+CASCADE Ave Res: 3.75024
+CASCADE (u) Max Res: 34.9628
+CASCADE (u) Ave Res: 5.75165
+NDL Max Res: 51.1458
+NDL Ave Res: 3.59604
+Photo Max Res: 100
+Photo Ave Res: 5.10354
+
+76-191
+CASCADE Max Res: 88.0287
+CASCADE Ave Res: 5.9044
+CASCADE (u) Max Res: 87.3302
+CASCADE (u) Ave Res: 5.14693
+NDL Max Res: 84.7709
+NDL Ave Res: 6.88019
+Photo Max Res: 94.619
+Photo Ave Res: 5.85509
+
+76-192
+CASCADE Max Res: 59.9035
+CASCADE Ave Res: 1.18024
+CASCADE (u) Max Res: 59.9035
+CASCADE (u) Ave Res: 1.18024
+NDL Max Res: 59.3089
+NDL Ave Res: 3.30928
+Photo Max Res: 100
+Photo Ave Res: 4.3575
+
+76-193
+CASCADE Max Res: 69.4078
+CASCADE Ave Res: 3.01574
+CASCADE (u) Max Res: 69.4078
+CASCADE (u) Ave Res: 3.18867
+NDL Max Res: 81.2519
+NDL Ave Res: 6.36574
+Photo Max Res: 86.0386
+Photo Ave Res: 4.48509
+
+76-194
+CASCADE Max Res: 100
+CASCADE Ave Res: 2.26
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 2.26
+NDL Max Res: 36.0683
+NDL Ave Res: 3.43576
+Photo Max Res: 100
+Photo Ave Res: 4.94138
+
+77-193
+CASCADE Max Res: 77.7698
+CASCADE Ave Res: 2.26911
+CASCADE (u) Max Res: 77.7698
+CASCADE (u) Ave Res: 2.26911
+NDL Max Res: 94.8847
+NDL Ave Res: 8.68221
+Photo Max Res: 100
+Photo Ave Res: 4.66601
+
+77-194
+CASCADE Max Res: 88.9766
+CASCADE Ave Res: 5.71105
+CASCADE (u) Max Res: 71.0419
+CASCADE (u) Ave Res: 8.69686
+NDL Max Res: 58.4307
+NDL Ave Res: 7.1154
+Photo Max Res: 99.8409
+Photo Ave Res: 4.5555
+
+77-195
+CASCADE Max Res: 85.4784
+CASCADE Ave Res: 5.30823
+CASCADE (u) Max Res: 86.8745
+CASCADE (u) Ave Res: 5.84061
+NDL Max Res: 97.833
+NDL Ave Res: 6.19596
+Photo Max Res: 97.833
+Photo Ave Res: 6.19596
+
+78-195
+CASCADE Max Res: 69.1872
+CASCADE Ave Res: 3.77043
+CASCADE (u) Max Res: 69.1872
+CASCADE (u) Ave Res: 3.77043
+NDL Max Res: 72.6627
+NDL Ave Res: 4.5639
+Photo Max Res: 60.7216
+Photo Ave Res: 2.73371
+
+78-196
+CASCADE Max Res: 24.9682
+CASCADE Ave Res: 1.23621
+CASCADE (u) Max Res: 15.1762
+CASCADE (u) Ave Res: 1.63082
+NDL Max Res: 33.6393
+NDL Ave Res: 2.10242
+Photo Max Res: 100
+Photo Ave Res: 3.754
+
+78-197
+CASCADE Max Res: 88.1405
+CASCADE Ave Res: 3.36833
+CASCADE (u) Max Res: 77.2401
+CASCADE (u) Ave Res: 2.93351
+NDL Max Res: 89.6128
+NDL Ave Res: 7.10102
+Photo Max Res: 100
+Photo Ave Res: 7.73906
+
+79-199
+CASCADE Max Res: 98.8081
+CASCADE Ave Res: 7.01719
+CASCADE (u) Max Res: 87.2466
+CASCADE (u) Ave Res: 6.96542
+NDL Max Res: 98.8081
+NDL Ave Res: 7.95474
+Photo Max Res: 100
+Photo Ave Res: 6.09933
+
+80-202
+CASCADE Max Res: 20.0149
+CASCADE Ave Res: 1.40228
+CASCADE (u) Max Res: 13.1658
+CASCADE (u) Ave Res: 1.6269
+NDL Max Res: 41.7335
+NDL Ave Res: 3.0231
+Photo Max Res: 100
+Photo Ave Res: 4.10965
+
+81-204
+CASCADE Max Res: 55.3993
+CASCADE Ave Res: 4.19504
+CASCADE (u) Max Res: 55.3993
+CASCADE (u) Ave Res: 2.99323
+NDL Max Res: 77.0695
+NDL Ave Res: 6.27781
+Photo Max Res: 99.4466
+Photo Ave Res: 5.88425
+
+81-206
+CASCADE Max Res: 66.4157
+CASCADE Ave Res: 3.67876
+CASCADE (u) Max Res: 54.745
+CASCADE (u) Ave Res: 3.24793
+NDL Max Res: 30.5389
+NDL Ave Res: 2.69577
+Photo Max Res: 47.3054
+Photo Ave Res: 6.09735
+
+8-17
+CASCADE Max Res: 0.811437
+CASCADE Ave Res: 0.0273735
+CASCADE (u) Max Res: 0.513507
+CASCADE (u) Ave Res: 0.0134912
+NDL Max Res: 20.7374
+NDL Ave Res: 0.272135
+Photo Max Res: 100
+Photo Ave Res: 3.79751
+
+8-18
+CASCADE Max Res: 44.3362
+CASCADE Ave Res: 1.30045
+CASCADE (u) Max Res: 45.0249
+CASCADE (u) Ave Res: 1.27671
+NDL Max Res: 31.8393
+NDL Ave Res: 1.88797
+Photo Max Res: 84.5953
+Photo Ave Res: 2.5028
+
+82-205
+CASCADE Max Res: 100
+CASCADE Ave Res: 5.98943
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 5.73719
+NDL Max Res: 100
+NDL Ave Res: 4.18883
+Photo Max Res: 100
+Photo Ave Res: 7.09732
+
+82-206
+CASCADE Max Res: 10.718
+CASCADE Ave Res: 0.529345
+CASCADE (u) Max Res: 10.6883
+CASCADE (u) Ave Res: 0.522729
+NDL Max Res: 52.7317
+NDL Ave Res: 2.70322
+Photo Max Res: 72.4624
+Photo Ave Res: 6.84273
+
+82-209
+CASCADE Max Res: 52.0519
+CASCADE Ave Res: 1.03478
+CASCADE (u) Max Res: 15.1815
+CASCADE (u) Ave Res: 0.499641
+NDL Max Res: 58.4615
+NDL Ave Res: 2.69833
+Photo Max Res: 100
+Photo Ave Res: 4.83478
+
+83-210
+CASCADE Max Res: 75.4027
+CASCADE Ave Res: 2.93779
+CASCADE (u) Max Res: 56.7261
+CASCADE (u) Ave Res: 2.90226
+NDL Max Res: 93.192
+NDL Ave Res: 8.08985
+Photo Max Res: 91.238
+Photo Ave Res: 6.38089
+
+88-227
+CASCADE Max Res: 70.6306
+CASCADE Ave Res: 3.84012
+CASCADE (u) Max Res: 70.6306
+CASCADE (u) Ave Res: 3.6386
+NDL Max Res: 75.1928
+NDL Ave Res: 3.82789
+Photo Max Res: 65.6642
+Photo Ave Res: 3.89898
+
+90-233
+CASCADE Max Res: 96.5909
+CASCADE Ave Res: 7.47143
+CASCADE (u) Max Res: 98.0648
+CASCADE (u) Ave Res: 6.68302
+NDL Max Res: 98.0648
+NDL Ave Res: 7.84297
+Photo Max Res: 93.9856
+Photo Ave Res: 8.53109
+
+9-20
+CASCADE Max Res: 1.80199
+CASCADE Ave Res: 0.222415
+CASCADE (u) Max Res: 1.8175
+CASCADE (u) Ave Res: 0.222979
+NDL Max Res: 63.5957
+NDL Ave Res: 0.835551
+Photo Max Res: 99.7616
+Photo Ave Res: 6.13407
+
+92-235
+CASCADE Max Res: 87.041
+CASCADE Ave Res: 4.75295
+CASCADE (u) Max Res: 91.0891
+CASCADE (u) Ave Res: 5.72856
+NDL Max Res: 97.0348
+NDL Ave Res: 4.43008
+Photo Max Res: 96.5685
+Photo Ave Res: 5.97976
+
+92-236
+CASCADE Max Res: 100
+CASCADE Ave Res: 6.98593
+CASCADE (u) Max Res: 100
+CASCADE (u) Ave Res: 5.60711
+NDL Max Res: 100
+NDL Ave Res: 6.5406
+Photo Max Res: 100
+Photo Ave Res: 7.31153
+
+92-239
+CASCADE Max Res: 99.3452
+CASCADE Ave Res: 5.16755
+CASCADE (u) Max Res: 94.9429
+CASCADE (u) Ave Res: 5.61194
+NDL Max Res: 98.3447
+NDL Ave Res: 4.83303
+Photo Max Res: 100
+Photo Ave Res: 6.70898
+
+94-239
+CASCADE Max Res: 77.543
+CASCADE Ave Res: 1.91181
+CASCADE (u) Max Res: 69.1055
+CASCADE (u) Ave Res: 1.62655
+NDL Max Res: 100
+NDL Ave Res: 5.22413
+Photo Max Res: 99.9758
+Photo Ave Res: 5.13559
