@@ -4,7 +4,7 @@ G4CASCADE is an extension for Geant4 that simulates de-excitation following ther
 
 ## Compatibility
 
-This version of G4CASCADE is designed for Geant4-10.7.4.
+This version of G4CASCADE is designed for Geant4-10.7.4. Compatability with other versions is not guaranteed.
 
 ## Getting Started
 
