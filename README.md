@@ -8,7 +8,7 @@ This version of G4CASCADE is designed for Geant4-10.7.4. Compatability with othe
 
 ## Getting Started
 
-This tutorial assumes basic knowledge of C++, Linux/Unix, and Geant4. If you have never used Geant4 before, try running some of the centrally provided example code before using G4CASCADE. Tutorials on how to do this can be found online.
+This tutorial assumes basic knowledge of Linux/Unix and Geant4. If you have never used Geant4 before, try running some of the centrally provided example code before using G4CASCADE. Tutorials on how to do this can be found online.
 
 1. **Source the Configuration File**: Before using G4CASCADE, source the file `configCASCADE.sh`.
 2. **Set Environment Variables**: Ensure the environment variable `CAPGAM_DATA_DIR` is set to the correct location of `CapGamData`.
